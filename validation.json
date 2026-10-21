@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-21",
+  "documents": 406,
+  "selected_source_files": 415,
+  "exact_duplicates_merged": 9,
+  "excluded_files": 33,
+  "topic_folders": 19,
+  "rewritten_links": 1283,
+  "broken_relative_links": 0,
+  "all_documents_indexed": true,
+  "all_document_hashes_match": true,
+  "scripts_or_active_skill_files_included": false,
+  "index_bytes": 187833,
+  "technical_methods_executed_or_verified": false,
+  "source_counts": {
+    "ljagiello": 180,
+    "Salman0x01": 76,
+    "nonoleekr": 52,
+    "tryhackme": 54,
+    "ctf-book": 53
+  },
+  "external_link_and_anchor_targets_verified": false,
+  "initial_local_build_relative_links_checked": 2505,
+  "publication_absolute_links_created": 2505,
+  "navigation_mode": "Standalone INDEX.md with absolute GitHub and raw HTTPS URLs; Internet access required"
+}

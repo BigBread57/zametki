@@ -1,0 +1,167 @@
+[
+  {
+    "source": "ljagiello",
+    "path": "README.md",
+    "reason": "Служебная документация репозитория"
+  },
+  {
+    "source": "Salman0x01",
+    "path": "README.md",
+    "reason": "Документация установки, маршрутизатора или незаполненный шаблон"
+  },
+  {
+    "source": "Salman0x01",
+    "path": "instructions/README.md",
+    "reason": "Документация установки, маршрутизатора или незаполненный шаблон"
+  },
+  {
+    "source": "Salman0x01",
+    "path": "instructions/_meta/_TEMPLATE.md",
+    "reason": "Документация установки, маршрутизатора или незаполненный шаблон"
+  },
+  {
+    "source": "Salman0x01",
+    "path": "router/README.md",
+    "reason": "Документация установки, маршрутизатора или незаполненный шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "CLAUDE.md",
+    "reason": "Служебная документация установки и конфигурации"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "README.md",
+    "reason": "Служебная документация установки и конфигурации"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/.agent.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/AGENTS.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/AUDIT_REPORT.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/HANDOFF.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/README.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/Tool Integration Roadmap.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "archive/legacy-python-agent/writeups/template.md",
+    "reason": "Служебные документы старой реализации или пустой шаблон"
+  },
+  {
+    "source": "nonoleekr",
+    "path": "knowledge/environment.md",
+    "reason": "Инвентарь и локальные пути машины автора, не переносимое учебное содержание"
+  },
+  {
+    "source": "tryhackme",
+    "path": "AGENTS.md",
+    "reason": "Каталог комнат или служебные инструкции пакета"
+  },
+  {
+    "source": "tryhackme",
+    "path": "CATALOG.md",
+    "reason": "Каталог комнат или служебные инструкции пакета"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-bash/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-crypto/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-http/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-kmb/references/001-about-html.md",
+    "reason": "Служебное описание исходного проекта"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-kmb/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-network-tools/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-reverse-pwn/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-sqlmap/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-stego/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-virtualbox-kali/references/source-gaps.md",
+    "reason": "Список отсутствующих лекций без содержательных текстов"
+  },
+  {
+    "source": "ctf-book",
+    "path": ".agents/skills/ctf-web-vulnerabilities/references/038-web-rce-main-html.md",
+    "reason": "Уведомление об исключённых примерах вместо учебного материала"
+  },
+  {
+    "source": "ctf-book",
+    "path": "AGENTS.md",
+    "reason": "Служебный документ или общий каталог исходного пакета"
+  },
+  {
+    "source": "ctf-book",
+    "path": "NOTICE.md",
+    "reason": "Уведомление перенесено в SOURCES.md"
+  },
+  {
+    "source": "ctf-book",
+    "path": "README.md",
+    "reason": "Служебный документ или общий каталог исходного пакета"
+  },
+  {
+    "source": "ctf-book",
+    "path": "STRUCTURE.md",
+    "reason": "Служебный документ или общий каталог исходного пакета"
+  },
+  {
+    "source": "ctf-book",
+    "path": "VALIDATION.md",
+    "reason": "Служебный документ или общий каталог исходного пакета"
+  }
+]
