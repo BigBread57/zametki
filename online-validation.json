@@ -1,0 +1,3287 @@
+{
+  "started_at": "2026-10-21T06:56:09.463Z",
+  "completed_at": "2026-10-21T06:56:26.226Z",
+  "repository": "https://github.com/BigBread57/zametki",
+  "index_url": "https://raw.githubusercontent.com/BigBread57/zametki/main/INDEX.md",
+  "index_download_status": 200,
+  "index_document_links": 406,
+  "documents_checked": 406,
+  "http_200": 406,
+  "matching_document_hashes": 406,
+  "failures": [],
+  "standalone_directory_contents": [
+    "INDEX.md"
+  ],
+  "repository_clone_used_for_online_read": false,
+  "example": {
+    "query": "Анализ дампа памяти с Volatility",
+    "guide_url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--thm-volatility-memory--SKILL.md",
+    "guide_http_status": 200,
+    "lesson_url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--notes--volatilityessentials.md",
+    "lesson_http_status": 200,
+    "lesson_bytes": 3403
+  },
+  "limitations": [
+    "HTTP-доступность и совпадение файлов проверены; технические методы из учебных материалов не выполнялись.",
+    "Для чтения через ИИ необходимы доступ к интернету и инструмент открытия URL.",
+    "Проверка не подтверждает возможность автоматически открывать ссылки в любом приложении ИИ."
+  ],
+  "documents": [
+    {
+      "file": "00-methodology/kmb--ctf-kmb--002-ctf-intro.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/kmb--ctf-kmb--002-ctf-intro.md",
+      "status": 200,
+      "bytes": 3443,
+      "sha256": "7950c0bcbcef8df5f84312b591ceac23e3866d6acd0fb12e01a3ed5e43197a7c",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/kmb--ctf-kmb--043-hackerdom-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/kmb--ctf-kmb--043-hackerdom-main-html.md",
+      "status": 200,
+      "bytes": 3423,
+      "sha256": "d82be3202b61db77716cb59b2a9741beea58ebe620e40e9841471b46c2fd2eb7",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/kmb--ctf-kmb--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/kmb--ctf-kmb--SKILL.md",
+      "status": 200,
+      "bytes": 5442,
+      "sha256": "6c2b1b55b3de981cae55b7604582248b2bf6146802332d56eba00fba136dbfff",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/lj--ctf-writeup--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/lj--ctf-writeup--SKILL.md",
+      "status": 200,
+      "bytes": 5636,
+      "sha256": "4554279ffca5cd941931eaf90036d1b98346695450de6ea4e147d17ed87ede24",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/lj--solve-challenge--difficulty-routing.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/lj--solve-challenge--difficulty-routing.md",
+      "status": 200,
+      "bytes": 8722,
+      "sha256": "567bea267fe061a6033eb0d3240b0bf934875ff247c999de987ef8af3e4d21d6",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/lj--solve-challenge--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/lj--solve-challenge--SKILL.md",
+      "status": 200,
+      "bytes": 12607,
+      "sha256": "3ff7f82979d2e4dd1e4877732b6fb1d5238d95c1eba5a13fbb35815721565372",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--challenges--picoCTF2021--addadshashanammu--challenge.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--challenges--picoCTF2021--addadshashanammu--challenge.md",
+      "status": 200,
+      "bytes": 2385,
+      "sha256": "9ec6c374fbe50a62a15415739510b49e7216cc1d76a74075009c7fa59ff1f911",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--challenges--picoCTF2021--addadshashanammu--notes.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--challenges--picoCTF2021--addadshashanammu--notes.md",
+      "status": 200,
+      "bytes": 2772,
+      "sha256": "4ea2d4c3a84c76d35df4b0d2f537231c34959f59b9b74ba09aa75317c024922f",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--ctf-methodology--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--ctf-methodology--SKILL.md",
+      "status": 200,
+      "bytes": 6062,
+      "sha256": "cdc6b0555df539a6f9c70e828f324af71b788d95b16427a0eab7b377edb0e963",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--knowledge--classification-guide.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--knowledge--classification-guide.md",
+      "status": 200,
+      "bytes": 4146,
+      "sha256": "093e32f0a46d88fcfeacda9aeddab1483652e154762e039f615c047f095bc97d",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--knowledge--exploit-patterns.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--knowledge--exploit-patterns.md",
+      "status": 200,
+      "bytes": 2565,
+      "sha256": "164491165a83bad3e89986d0784b0edc3460e998fbbf5ae396b95260ad727e4b",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--knowledge--vuln-catalog.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--knowledge--vuln-catalog.md",
+      "status": 200,
+      "bytes": 7966,
+      "sha256": "17fdbe79a417b6cbf3c894e48571711ca22f753c699373f6f4c411e9b6d16772",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--knowledge--writeup-template.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--knowledge--writeup-template.md",
+      "status": 200,
+      "bytes": 2261,
+      "sha256": "35eb6ce130b5d9ed000b819551ff71dbbce19adf6557cd2cda9c4e8b7539d1a0",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--knowledge-archive--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--knowledge-archive--SKILL.md",
+      "status": 200,
+      "bytes": 7543,
+      "sha256": "926af7a7154e3b4e71e89a1f6f0bfbf2ddd92d386802dbc73f6c9d2ae8a470de",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--legacy--prompts--ctf_workflow.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--legacy--prompts--ctf_workflow.md",
+      "status": 200,
+      "bytes": 2823,
+      "sha256": "9cc5a936a28a746b7e3d4472d6f53df9caf5eda50f1b0d067feb0e616afa0323",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--legacy--prompts--system.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--legacy--prompts--system.md",
+      "status": 200,
+      "bytes": 1404,
+      "sha256": "d470896171b47b96928a97e953d354b96b6383160f6690d7c6daff9fb5fe581c",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--report-writing--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--report-writing--SKILL.md",
+      "status": 200,
+      "bytes": 2993,
+      "sha256": "9f6d491b20733c213b90f06676ae778b6f24a1d0105d31c47c7f9867e8da57a2",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--session-handoff--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--session-handoff--SKILL.md",
+      "status": 200,
+      "bytes": 4366,
+      "sha256": "22ee6bb54ee7c3c1b92bb5caddfbe5afc487dcd5724e069fda735f2821128a11",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/na--tool-usage--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/na--tool-usage--SKILL.md",
+      "status": 200,
+      "bytes": 3634,
+      "sha256": "3d8c2fce451218bfa6c2a7f7892b0b425a629464e0a6f982eeffef7c327e17f7",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/sa--instructions--_meta--00-global-methodology.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/sa--instructions--_meta--00-global-methodology.md",
+      "status": 200,
+      "bytes": 4443,
+      "sha256": "8da787f4a6c6547e50baf503ad8653b7218eda5ddc2123975fafaa5883b5745e",
+      "hash_matches": true
+    },
+    {
+      "file": "00-methodology/sa--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/00-methodology/sa--SKILL.md",
+      "status": 200,
+      "bytes": 51518,
+      "sha256": "95b397f5afda720503751b98d3cfcd4e032057232de7ae6daeeba61bc6bf9649",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--notes--careersincyber.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--notes--careersincyber.md",
+      "status": 200,
+      "bytes": 1998,
+      "sha256": "2c8ee7d9ed8c5abe16c1ee136b1e25aebe171d790c09f6822b6aa57d9b2a8ca8",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--notes--defensivesecurityintro.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--notes--defensivesecurityintro.md",
+      "status": 200,
+      "bytes": 2348,
+      "sha256": "d754d88b89c6f1d099e4354c36724548ebe29c66c0854f44e5762fbe8aa6c1c2",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--notes--insideacomputer.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--notes--insideacomputer.md",
+      "status": 200,
+      "bytes": 3814,
+      "sha256": "6097695fc53629c867961569c41a309fc1ef773401a56be185fcb57be2e87b7e",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--notes--offensivesecurityintro.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--notes--offensivesecurityintro.md",
+      "status": 200,
+      "bytes": 2191,
+      "sha256": "c589a80a4464a932067c573930697a2e4d4958244e61de79d11cd915398a858a",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--notes--operatingsystemsintroduction.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--notes--operatingsystemsintroduction.md",
+      "status": 200,
+      "bytes": 2571,
+      "sha256": "82516c1f02644dddd4db6efde2cddf896d13a627081de965bcb96595468be42f",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--notes--theciatriad.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--notes--theciatriad.md",
+      "status": 200,
+      "bytes": 2638,
+      "sha256": "396b57f8b6105ec27b63fcd439703595086d8a5cea8b82d2018ae1aed2405f8c",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--thm-security-foundations--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--thm-security-foundations--lessons.md",
+      "status": 200,
+      "bytes": 7133,
+      "sha256": "1494852973152ef3478eb347d3bd441a3b03fd7f9394e4368bf2a4f376122f9c",
+      "hash_matches": true
+    },
+    {
+      "file": "01-foundations/thm--thm-security-foundations--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/01-foundations/thm--thm-security-foundations--SKILL.md",
+      "status": 200,
+      "bytes": 2624,
+      "sha256": "d99aee2fabc86e4bd90ca629e265b94227deed194a1f70774d5922b6c870a43f",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/kmb--ctf-network-tools--014-net-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/kmb--ctf-network-tools--014-net-main-html.md",
+      "status": 200,
+      "bytes": 2442,
+      "sha256": "fc4b629530496861388de508f61503f9ef5d6bab8a95df1b979d4b92918eea03",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/kmb--ctf-network-tools--015-net-net-tools-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/kmb--ctf-network-tools--015-net-net-tools-main-html.md",
+      "status": 200,
+      "bytes": 24733,
+      "sha256": "43903e005ec8f177fc0c8788f5ddddb4f0fd729369b2856b1b7cf6cd8febfcb5",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/kmb--ctf-network-tools--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/kmb--ctf-network-tools--SKILL.md",
+      "status": 200,
+      "bytes": 4628,
+      "sha256": "dfa3bcb7887e43460a31cda69d894799b116d480a8355bf71ad7c33e9e8f1c7e",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/lj--ctf-misc--dns.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/lj--ctf-misc--dns.md",
+      "status": 200,
+      "bytes": 10543,
+      "sha256": "f0fad1d49f2f550e57ddef42859dc88254a5c6ab8c99af75c139319dd9ef5cdb",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/na--knowledge--tools-reference--network.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/na--knowledge--tools-reference--network.md",
+      "status": 200,
+      "bytes": 2579,
+      "sha256": "09848323310b04ba6b6484230b5f0bdbf3882730dbbce69f13582a1c81815417",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--notes--dnsindetail.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--notes--dnsindetail.md",
+      "status": 200,
+      "bytes": 2313,
+      "sha256": "a1bdd861d0ac09e11c2c3b18ad4860c6fb239021a5b041f195bb1228466c83b0",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--notes--introtolan.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--notes--introtolan.md",
+      "status": 200,
+      "bytes": 2341,
+      "sha256": "283a0c57944b194c9b94f816ff3bf98c6cc98368b77f396800e77dfa4ced32c0",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--notes--nmap01.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--notes--nmap01.md",
+      "status": 200,
+      "bytes": 3141,
+      "sha256": "cd1cd0635245edcb286d13961332e23de06fe4de41e69a63752abb10ad33d06f",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--notes--whatisnetworking.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--notes--whatisnetworking.md",
+      "status": 200,
+      "bytes": 2310,
+      "sha256": "81b1098e5909b7b3334f5e4e243fab056c462aa8aa9f2a01f28c1b8579304978",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--thm-network-dns-http--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--thm-network-dns-http--lessons.md",
+      "status": 200,
+      "bytes": 7408,
+      "sha256": "70a194f285d18e03d479dd2e7dbc736f7ad948d4a2ac5979b05a4ff3120110c6",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--thm-network-dns-http--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--thm-network-dns-http--SKILL.md",
+      "status": 200,
+      "bytes": 2651,
+      "sha256": "e4496ceaf3f205bbcc7f4d3631fdadd0e608082dd29239b2c7bfe42b49dd7e36",
+      "hash_matches": true
+    },
+    {
+      "file": "02-network/thm--thm-nmap-host-discovery--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/02-network/thm--thm-nmap-host-discovery--SKILL.md",
+      "status": 200,
+      "bytes": 2193,
+      "sha256": "63a19a491a32c1aaeaafec558a33f310d1b21fa1095a2fb091740996f7429fbf",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/kmb--ctf-bash--003-bash-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/kmb--ctf-bash--003-bash-main-html.md",
+      "status": 200,
+      "bytes": 6651,
+      "sha256": "86b889c623231dc3064f93b5166dbda19b4bec49890722166c15756077258362",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/kmb--ctf-bash--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/kmb--ctf-bash--SKILL.md",
+      "status": 200,
+      "bytes": 4061,
+      "sha256": "2109a9e3ac8d671a701640714f56c705175f5b2f17a6ad40bdcd366282d6cf5f",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/lj--ctf-misc--linux-privesc.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/lj--ctf-misc--linux-privesc.md",
+      "status": 200,
+      "bytes": 19330,
+      "sha256": "c030864a639a0679e02e7ff75a127ce5cb30761eb737f95984abb58c3fe78a9f",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/sa--instructions--host-linux--capabilities.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/sa--instructions--host-linux--capabilities.md",
+      "status": 200,
+      "bytes": 7752,
+      "sha256": "40d3b2171e1113b2366630bbfd6d5ad5206d6b52d89df9758602d3be8620662e",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/sa--instructions--host-linux--cron-path-hijack.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/sa--instructions--host-linux--cron-path-hijack.md",
+      "status": 200,
+      "bytes": 7591,
+      "sha256": "02c8c486fd12c8659820b7cd858c812c233cfef5ca5f2f21070fb082883d9833",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/sa--instructions--host-linux--kernel-and-misc-privesc.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/sa--instructions--host-linux--kernel-and-misc-privesc.md",
+      "status": 200,
+      "bytes": 9088,
+      "sha256": "b62f11cfd7ba6549d6c85ff22b3f7544180af7205a700e3ef7ac876a99d2d2ac",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/sa--instructions--host-linux--linux-enum-linpeas.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/sa--instructions--host-linux--linux-enum-linpeas.md",
+      "status": 200,
+      "bytes": 8892,
+      "sha256": "b5545ca4b9c38088fa1ebf4ae0e1777e8f1570b8d51ef5bcc33f2f7403e09510",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/sa--instructions--host-linux--sudo-gtfobins.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/sa--instructions--host-linux--sudo-gtfobins.md",
+      "status": 200,
+      "bytes": 7903,
+      "sha256": "4e867e9884437c49d602a9cf82c708408acd9c1010b1d969fc11537f906dcbb4",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/sa--instructions--host-linux--suid-sgid.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/sa--instructions--host-linux--suid-sgid.md",
+      "status": 200,
+      "bytes": 7784,
+      "sha256": "2009db4ef2dcadbdb98f602375d066f6d46c75ee7dad90e615f6055d08983459",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/thm--notes--linuxfundamentalspart1.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/thm--notes--linuxfundamentalspart1.md",
+      "status": 200,
+      "bytes": 2328,
+      "sha256": "7bf89a7b2a3b4cc7e6b8285652099cefaabe19e3b5296f3236a21bb905bdc942",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/thm--thm-linux-cli--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/thm--thm-linux-cli--lessons.md",
+      "status": 200,
+      "bytes": 2518,
+      "sha256": "24cad6bc1ca4b44a9d0faaacae91b991101b2556d71ae6cc7c43d4fc16748365",
+      "hash_matches": true
+    },
+    {
+      "file": "03-linux/thm--thm-linux-cli--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/03-linux/thm--thm-linux-cli--SKILL.md",
+      "status": 200,
+      "bytes": 2741,
+      "sha256": "93f49b51a942479ebbc1e5a96c1f3f83af0d94f013fed598f0bedc934526cddb",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/sa--instructions--host-windows--credential-hunting.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/sa--instructions--host-windows--credential-hunting.md",
+      "status": 200,
+      "bytes": 7211,
+      "sha256": "97713a0044e3f240779cd717860be3f64d43b8c87448e885ee0f241964b795d8",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/sa--instructions--host-windows--service-misconfigurations.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/sa--instructions--host-windows--service-misconfigurations.md",
+      "status": 200,
+      "bytes": 8159,
+      "sha256": "788df56a3fb78a2a64b477321da1837fe6e8adf954db196ef890e540b418a3f2",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/sa--instructions--host-windows--token-impersonation-potato.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/sa--instructions--host-windows--token-impersonation-potato.md",
+      "status": 200,
+      "bytes": 8349,
+      "sha256": "72f3d54539e906a66486fd7311ff3eedd8eaea452d9661a8b5e5000cab46db02",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/sa--instructions--host-windows--uac-and-registry.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/sa--instructions--host-windows--uac-and-registry.md",
+      "status": 200,
+      "bytes": 8184,
+      "sha256": "15c28acf1d4b824d7574449f1748e9cc49857403b8541fb1296c48965fb5dcb3",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/sa--instructions--host-windows--windows-enum-winpeas.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/sa--instructions--host-windows--windows-enum-winpeas.md",
+      "status": 200,
+      "bytes": 7390,
+      "sha256": "d9f45223e53323b323b7f270afa84eaf74ba8992b801c1aa161b5214bf71419c",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/thm--notes--windowsbasics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/thm--notes--windowsbasics.md",
+      "status": 200,
+      "bytes": 2342,
+      "sha256": "42a08c4219ea1dce02ce3fa09b04bc5ad0d6e141298c990ba77ee9e4e5666c91",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/thm--thm-windows-os-basics--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/thm--thm-windows-os-basics--lessons.md",
+      "status": 200,
+      "bytes": 4356,
+      "sha256": "b3a18efd6eaa5f8e80aff536d7bc19f434e443acf305d75aebfee932e6ca6d50",
+      "hash_matches": true
+    },
+    {
+      "file": "04-windows/thm--thm-windows-os-basics--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/04-windows/thm--thm-windows-os-basics--SKILL.md",
+      "status": 200,
+      "bytes": 3106,
+      "sha256": "4a28f2bbf096d15164dfaec8dc46497cd17688c55dfb497078f135ad242ac055",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-http--030-web-cookie-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-http--030-web-cookie-main-html.md",
+      "status": 200,
+      "bytes": 8403,
+      "sha256": "a977cd1822b4969d060357822c497cec231f06bfa441718bd9cb0927453dd8a9",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-http--033-web-get-request-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-http--033-web-get-request-main-html.md",
+      "status": 200,
+      "bytes": 7220,
+      "sha256": "c6dbc16dea26a28336da4ef9eca1ae73e415302a904223145be3192dd01884d7",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-http--035-web-headers-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-http--035-web-headers-main-html.md",
+      "status": 200,
+      "bytes": 10334,
+      "sha256": "64cef745577f6c2c70e7a7f79fb09a0d81fd40a14e5a55f35677e52674bcce26",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-http--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-http--SKILL.md",
+      "status": 200,
+      "bytes": 4536,
+      "sha256": "a832579aada6b4274b569971770efe31e92f6d9e31d91937ab769fb7d4baa5ef",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-sqlmap--016-net-sqlmap-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-sqlmap--016-net-sqlmap-main-html.md",
+      "status": 200,
+      "bytes": 20213,
+      "sha256": "3efd56712b5ed373675565676fc603177e01d71207d28fe2cb511b5bfded750c",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-sqlmap--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-sqlmap--SKILL.md",
+      "status": 200,
+      "bytes": 4556,
+      "sha256": "02efdf5baf8da9cecaea146d9aa402cdf88cf0e440d4cd3325fcd559c4dabcbc",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--028-web-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--028-web-main-html.md",
+      "status": 200,
+      "bytes": 2946,
+      "sha256": "258d3ff21223d9e20caab23cbc74cbe929e08c4b840156b26b0d780da8302aed",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--029-web-burp-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--029-web-burp-main-html.md",
+      "status": 200,
+      "bytes": 94247,
+      "sha256": "c403b94a1152223dca904a00f0268f5c54faf5925e6dff311de31d9065bb5c1a",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--032-web-dev-tools-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--032-web-dev-tools-main-html.md",
+      "status": 200,
+      "bytes": 10166,
+      "sha256": "d03d0362b8ac81e98379e4f0f42254fcc19482d68c768c545635cc2ac3c6be88",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--034-web-git-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--034-web-git-main-html.md",
+      "status": 200,
+      "bytes": 4310,
+      "sha256": "9f5165db73cab39c7f66e702a00073d1095f9e1fcfc5812ee15f979be33bfdca",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--037-web-owasp-db-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--037-web-owasp-db-main-html.md",
+      "status": 200,
+      "bytes": 7157,
+      "sha256": "578767a12deca9038c0ed76b8ab984fdc1c18180fba2846308b755d3c6d65281",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--040-web-robots-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--040-web-robots-main-html.md",
+      "status": 200,
+      "bytes": 5410,
+      "sha256": "dcdebf21bd4fde6156d05d89923bd242fb8b7794ef4b5223dbe9ecb8d0e3190f",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--041-web-svn-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--041-web-svn-main-html.md",
+      "status": 200,
+      "bytes": 3309,
+      "sha256": "8d5a77f0a94f931d0c5f38dca6f623ab90763fbbe90230728153c05cb9dd36dc",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-tools--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-tools--SKILL.md",
+      "status": 200,
+      "bytes": 5457,
+      "sha256": "fea0ac13a2079e63b2dfb3d970cd941ffd8cdef8e12ca1f0ba6c3ef4dfdb75e1",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-vulnerabilities--031-web-csrf-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-vulnerabilities--031-web-csrf-main-html.md",
+      "status": 200,
+      "bytes": 2056,
+      "sha256": "ac60e8e332c4d1701e875e9a69efdaa26d5e7434b5a23defda5fc4a5c034dae1",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-vulnerabilities--036-web-lfi-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-vulnerabilities--036-web-lfi-main-html.md",
+      "status": 200,
+      "bytes": 12520,
+      "sha256": "2e56f3724a54fa1bb8be2572b4c23df9731cecdc8b4bde2aa7be99f1026eaf50",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-vulnerabilities--039-web-rfi-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-vulnerabilities--039-web-rfi-main-html.md",
+      "status": 200,
+      "bytes": 5890,
+      "sha256": "16ff7f9f825758ca5ab0f60ab1b18b721c20f5337431c2f48eb40299b06ddf97",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-vulnerabilities--042-web-xss-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-vulnerabilities--042-web-xss-main-html.md",
+      "status": 200,
+      "bytes": 15078,
+      "sha256": "4d31048bc58500b5bf0c27842ce01e8f6bf6bb0a5522ea654425dbc3184f3665",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/kmb--ctf-web-vulnerabilities--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/kmb--ctf-web-vulnerabilities--SKILL.md",
+      "status": 200,
+      "bytes": 5326,
+      "sha256": "1c1307f88ddc58f3cfd7c6db09fbaa6749f6ea600562af4617a862bfecf536e4",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--auth-and-access-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--auth-and-access-2.md",
+      "status": 200,
+      "bytes": 6315,
+      "sha256": "546a9ffd91f1981b400a197b4bfbb2427c6deb871de1114424ad177937ac1224",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--auth-and-access.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--auth-and-access.md",
+      "status": 200,
+      "bytes": 61143,
+      "sha256": "5b1fa307369caada68fc29abf7da12e0b981698c6090142448a08a5460fd0e23",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--auth-infra.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--auth-infra.md",
+      "status": 200,
+      "bytes": 18008,
+      "sha256": "3088833bd98134fb3af8c97f96124b93ec5566a5b8f7e1afe4c3943ed87077a3",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--auth-jwt.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--auth-jwt.md",
+      "status": 200,
+      "bytes": 12355,
+      "sha256": "3c8591f92b7456e49cb162384b0bcec7eec808b8b5957dde13bafc21d6795bea",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--client-side-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--client-side-advanced.md",
+      "status": 200,
+      "bytes": 40800,
+      "sha256": "0b26883897b6a172cdc2e40fbea613c24a937fd0c47ca73e6224f1c75607665d",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--client-side.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--client-side.md",
+      "status": 200,
+      "bytes": 25512,
+      "sha256": "8734a5b5bd87100a08e7ebd95b16076685c2168358f692d0c34ae1bb023f3fc7",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--cves.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--cves.md",
+      "status": 200,
+      "bytes": 17960,
+      "sha256": "424fc8c4d0bcf509a1b9985ce65153c1ed57ed6f18ff58adc3426ce4f7aeb101",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--field-notes.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--field-notes.md",
+      "status": 200,
+      "bytes": 52286,
+      "sha256": "5648fd6ee7395f1607c4773ff3ea195948c5d2a20812c5a67283ca7c865d191a",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--node-and-prototype.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--node-and-prototype.md",
+      "status": 200,
+      "bytes": 8096,
+      "sha256": "eece2c1bb1d837bc84170d07513b47bc101ed91076635a22925788cfde7f20b9",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--pat-reference.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--pat-reference.md",
+      "status": 200,
+      "bytes": 16593,
+      "sha256": "50c69fb0dde91510c10e7ef5930357b544bf761ef653c721099fb87cf8234c77",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--python-requests.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--python-requests.md",
+      "status": 200,
+      "bytes": 21893,
+      "sha256": "0072ca4f018ff46dbd4c73ad041b26c2376c7706aba4a1059c7b15751809a665",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-2.md",
+      "status": 200,
+      "bytes": 16970,
+      "sha256": "f231155a9acc3012568cf38313d90e2c3ea7bbe1df7aca8dafd20e8d06c281e8",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-advanced-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-advanced-2.md",
+      "status": 200,
+      "bytes": 27268,
+      "sha256": "a50a06e7224e254be1c8c96027542c657a6777f21ce21cc5f84bccf2cd2b40d4",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-advanced-3.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-advanced-3.md",
+      "status": 200,
+      "bytes": 8148,
+      "sha256": "8d4b8653e425052628a6bfe0df07c39c013b753d4a5e3a431c9721922c3941f1",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-advanced-4.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-advanced-4.md",
+      "status": 200,
+      "bytes": 23601,
+      "sha256": "3be7849baabe27939e225782e86d5b26415f31a7d04ef76ae79a5615a4f0913c",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-advanced.md",
+      "status": 200,
+      "bytes": 17376,
+      "sha256": "30a5ce0382b32121c0de483fb72fce5b6ed915b1ef829cd03c092b5df76c8555",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-deser.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-deser.md",
+      "status": 200,
+      "bytes": 23367,
+      "sha256": "9d75aa2885687582044e26a21f7d5e5d805ab230e60e24f6b8143b6e4337fd2f",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-exec-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-exec-2.md",
+      "status": 200,
+      "bytes": 41586,
+      "sha256": "0d76a96a9afc478d38ddf0772d48e18c6cd4f25aa4d9ba6f7f29010254e29a3d",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side-exec.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side-exec.md",
+      "status": 200,
+      "bytes": 23272,
+      "sha256": "d557da9263c482fbb6fa8ac96769a361c606e78f38ebc596a1fbffa2f249daa0",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--server-side.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--server-side.md",
+      "status": 200,
+      "bytes": 31934,
+      "sha256": "65b3705defae702d4cfc3574dc18e6ebfccd188d968f7759168cf0a8646ea5cb",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--SKILL.md",
+      "status": 200,
+      "bytes": 21424,
+      "sha256": "6ab40c7839f5e12f29c9457927992b9ba200288fe855518040e42b2a75836512",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--sql-injection.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--sql-injection.md",
+      "status": 200,
+      "bytes": 39992,
+      "sha256": "8e210733e05824f88cf3d5b8dd9d28d40791ba7dcbb99e734e59712d7f91497a",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--tools-mcp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--tools-mcp.md",
+      "status": 200,
+      "bytes": 37192,
+      "sha256": "6575866b1f899ac054920f4ad1925283187804b0e6d0c640dfb57fc6a82230b7",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/lj--ctf-web--web3.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/lj--ctf-web--web3.md",
+      "status": 200,
+      "bytes": 18289,
+      "sha256": "3eb71dd4ce9daa7252a6373ae5ed7d8709e24336c3bc5de3abb037c9fa0ce257",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--exploits--graphql-idor-privileged-field.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--exploits--graphql-idor-privileged-field.md",
+      "status": 200,
+      "bytes": 3554,
+      "sha256": "1e18076050fc6ca9d715d786b76ca45d05d2687b229dae72d6a2c1c5b4ebdfbc",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--exploits--handlebars-ssti-payloads.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--exploits--handlebars-ssti-payloads.md",
+      "status": 200,
+      "bytes": 4709,
+      "sha256": "a77cc766e0f0e8e155b951d902b082c1f1a9931b900cb958b0a3ad479dd66051",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--exploits--jackson-deserialization-setter-gadget.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--exploits--jackson-deserialization-setter-gadget.md",
+      "status": 200,
+      "bytes": 4660,
+      "sha256": "2ca09cbeca66002797c8a412a06b40290844111b9114c55a29ee55871266418e",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--knowledge--tools-reference--web.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--knowledge--tools-reference--web.md",
+      "status": 200,
+      "bytes": 3659,
+      "sha256": "3277da8f0c050addaef6efd75d8d7ff969931dcf3be9767195300528782c2ed5",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--legacy--knowledge--web.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--legacy--knowledge--web.md",
+      "status": 200,
+      "bytes": 2078,
+      "sha256": "babaa99d480a0876b8ede058a6ab5b7fa62ee339b86165046e2d3970aba84097",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--legacy--prompts--web.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--legacy--prompts--web.md",
+      "status": 200,
+      "bytes": 2195,
+      "sha256": "44272c2e5c290b6ac5850670f34881384ac0d2f6d3c04977c556e5e462606e43",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/na--web-exploitation--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/na--web-exploitation--SKILL.md",
+      "status": 200,
+      "bytes": 3551,
+      "sha256": "79a39696f5a7f7e0ecbd65fcb5b1db0ff01d9b524feb32eb54e6d17ee25f43d3",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--api-graphql-rest.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--api-graphql-rest.md",
+      "status": 200,
+      "bytes": 9099,
+      "sha256": "da9b92b99dd8a02b6a43145e6bc816cb177c509e8a7408dfc897be510a8afc32",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--auth-jwt-session.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--auth-jwt-session.md",
+      "status": 200,
+      "bytes": 9529,
+      "sha256": "da119bd94b2f78d76cefa0e096e810f8303eab40362d535ae705e870d89cadf3",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--cms-and-known-exploits.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--cms-and-known-exploits.md",
+      "status": 200,
+      "bytes": 10323,
+      "sha256": "5236384236f797934db2c4ae25b6a4b0083d1bbfb310127cd28ed9763c3eaa72",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--command-injection.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--command-injection.md",
+      "status": 200,
+      "bytes": 7120,
+      "sha256": "3590d767310f3e439ba48451fd57bfba8a4e51ad3bbf5138dafbf00174536629",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--file-inclusion-lfi-rfi.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--file-inclusion-lfi-rfi.md",
+      "status": 200,
+      "bytes": 8905,
+      "sha256": "f8a8ddb11e34089961474484a3f77d749dcad4042c540cb779bbbd913a659100",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--file-upload.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--file-upload.md",
+      "status": 200,
+      "bytes": 8888,
+      "sha256": "594d7dc7cd7f88aa30e46c33c4686837cefd7de2edf9692115e16474f96593ed",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--idor-access-control.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--idor-access-control.md",
+      "status": 200,
+      "bytes": 8778,
+      "sha256": "4ad23b8c8de909076d940d687a63bb8301b0c376f20acd8023cef3bc1fc8d986",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--insecure-deserialization.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--insecure-deserialization.md",
+      "status": 200,
+      "bytes": 9083,
+      "sha256": "2db35aa7444d054eae52b871ffe79af14f6f4d40ce5fc0c36da086a254fbca06",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--nosql-injection.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--nosql-injection.md",
+      "status": 200,
+      "bytes": 8336,
+      "sha256": "082bcf8f62041e40365fec04a1194ebbadb7a9439dee1b74ab205bbaea5b09bb",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--sql-injection.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--sql-injection.md",
+      "status": 200,
+      "bytes": 8394,
+      "sha256": "d885328947884e4037bc6be763af0e4cf23e3538beb1e82d9c999e61c6281a15",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--ssrf.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--ssrf.md",
+      "status": 200,
+      "bytes": 10057,
+      "sha256": "5f6d7ddcf96fc735a10fe1b416885ba33bd2158638077bd1d8a8488c83d74102",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--ssti.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--ssti.md",
+      "status": 200,
+      "bytes": 7998,
+      "sha256": "dab48303f9a2d62c58430052c784dc2a65b35e2e4fc6faf4aa8e4f1ff8500e4b",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--web-recon.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--web-recon.md",
+      "status": 200,
+      "bytes": 9267,
+      "sha256": "52cdf66e1d4ab55183e6356ad627322122a5aa9e1c47ac4242b3a4e0c93d421e",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--xss.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--xss.md",
+      "status": 200,
+      "bytes": 8199,
+      "sha256": "4fe93f6ea1fb380056928271fe5e17cd595781f8832f52429241dd7e899cf29e",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/sa--instructions--web--xxe.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/sa--instructions--web--xxe.md",
+      "status": 200,
+      "bytes": 8310,
+      "sha256": "241497e05d8ebe5bb9239da9e67a5426d960f73a175ac9825215194dd8d1fc19",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/thm--notes--httpindetail.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/thm--notes--httpindetail.md",
+      "status": 200,
+      "bytes": 2517,
+      "sha256": "bb353292be8cb7407e2d8c97fee33f121c16799ec34627412d54a87129f02baf",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/thm--notes--sqlmap.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/thm--notes--sqlmap.md",
+      "status": 200,
+      "bytes": 2911,
+      "sha256": "a7102cb272ca9027dfeb3ff016225a29daaa8a703e7fcd4bde02192d0f2da159",
+      "hash_matches": true
+    },
+    {
+      "file": "05-web/thm--thm-sqlmap-basics--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/05-web/thm--thm-sqlmap-basics--SKILL.md",
+      "status": 200,
+      "bytes": 2299,
+      "sha256": "1f23ece47b09eca1a77c8d5d0e928934b109b9bc33bafbfbd8743d0ce9351820",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--ad-enum-bloodhound.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--ad-enum-bloodhound.md",
+      "status": 200,
+      "bytes": 10111,
+      "sha256": "14ee3a803f7bb42319bf1478c0ac272034afef6c2e458840d777728be025be20",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--adcs-esc.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--adcs-esc.md",
+      "status": 200,
+      "bytes": 9674,
+      "sha256": "ea7a5d6a3d6788d156f6f675ff8afdeb796900185b20f0da3e2df2dc6c8a8d83",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--asreproasting.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--asreproasting.md",
+      "status": 200,
+      "bytes": 7649,
+      "sha256": "3a25e59b8ce5c754edcf8c36088a8efe59a20e7396f5240ad26511cbf97e8e50",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--dcsync-dump.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--dcsync-dump.md",
+      "status": 200,
+      "bytes": 8117,
+      "sha256": "7bac1261c1ea9e50c90bf14146c0af69e1e071e76c52e76bb8a4e2cc2deecfa5",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--kerberoasting.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--kerberoasting.md",
+      "status": 200,
+      "bytes": 8207,
+      "sha256": "eabaf1de1ca2c1444a304c5dc94e86472a140f6df41a1921e5a33ceccc3c3d9a",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--ntlm-relay-coerce.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--ntlm-relay-coerce.md",
+      "status": 200,
+      "bytes": 8898,
+      "sha256": "da6757355d88a73d2c3b0797e4558f0dc86752ee6062e18331a3d9eb3c85330c",
+      "hash_matches": true
+    },
+    {
+      "file": "06-active-directory/sa--instructions--active-directory--pth-ptt-lateral.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/06-active-directory/sa--instructions--active-directory--pth-ptt-lateral.md",
+      "status": 200,
+      "bytes": 9675,
+      "sha256": "4d2af62dc1988683ea254e0100222ec970b2c369a733e801b346ff8ef3726d66",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/na--legacy--knowledge--netcat.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/na--legacy--knowledge--netcat.md",
+      "status": 200,
+      "bytes": 2059,
+      "sha256": "f6277dbbbf1d31c2557047f6a7b9e0439cdbe50f6216eff3e02e4456c8f7de27",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/na--legacy--knowledge--ssh.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/na--legacy--knowledge--ssh.md",
+      "status": 200,
+      "bytes": 2203,
+      "sha256": "4895ad9fb4b0f003ae21594680f6a56f21a2d8d298b08eccbdc9b40296a40923",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/na--legacy--prompts--netcat.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/na--legacy--prompts--netcat.md",
+      "status": 200,
+      "bytes": 1935,
+      "sha256": "b2e5ac9f42477b227561a719de39ec139999b02d57e7f5223336938caa98bdb8",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/na--legacy--prompts--ssh.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/na--legacy--prompts--ssh.md",
+      "status": 200,
+      "bytes": 2077,
+      "sha256": "49b01baff7281a97d3928a074253d156808baeafae66adc08aa7722f78d2afb8",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/sa--instructions--access-pivoting--pivoting-proxychains.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/sa--instructions--access-pivoting--pivoting-proxychains.md",
+      "status": 200,
+      "bytes": 8315,
+      "sha256": "9e8178803f3d06ba0c278b6edc38c18422eeb396994ceab540a8ddca2e44421d",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/sa--instructions--access-pivoting--reverse-shells-and-callbacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/sa--instructions--access-pivoting--reverse-shells-and-callbacks.md",
+      "status": 200,
+      "bytes": 11362,
+      "sha256": "6eaea366a99de6333fa4aa5c94724809b5d7274abc3d673a321195e829f4de7c",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/sa--instructions--access-pivoting--ssh-access-and-keys.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/sa--instructions--access-pivoting--ssh-access-and-keys.md",
+      "status": 200,
+      "bytes": 7788,
+      "sha256": "b3cf2becbbde2ae1f214443a39632ca04b9b633c3ce770c12a909bcecd0cb80c",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/sa--instructions--access-pivoting--tunneling-port-forwarding.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/sa--instructions--access-pivoting--tunneling-port-forwarding.md",
+      "status": 200,
+      "bytes": 7403,
+      "sha256": "cd0f6ae045692e77212da17f0cf2078791eb75664bd268628428438c0f428a58",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/thm--notes--hydra.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/thm--notes--hydra.md",
+      "status": 200,
+      "bytes": 2884,
+      "sha256": "487878ff9781b90a1ae971a4da2531cc645c7de68ff3828878d555dee243bd16",
+      "hash_matches": true
+    },
+    {
+      "file": "07-access-pivoting/thm--thm-hydra-lab--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/07-access-pivoting/thm--thm-hydra-lab--SKILL.md",
+      "status": 200,
+      "bytes": 2303,
+      "sha256": "3887fdad30f99713e4abc163b1f8712798d2bd3a8e04fe395a11de24030dc786",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--004-crypto-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--004-crypto-main-html.md",
+      "status": 200,
+      "bytes": 3944,
+      "sha256": "51fc84a5d8483d65bf024816bc8f452dbfeb5180fd73b6348cb29f041a106043",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--005-crypto-base64-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--005-crypto-base64-main-html.md",
+      "status": 200,
+      "bytes": 11362,
+      "sha256": "d6488df96bae7ad915bc69fe1346b3bd5f9f67c4f079f008c24673137cb68e90",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--006-crypto-caezar-cipher-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--006-crypto-caezar-cipher-main-html.md",
+      "status": 200,
+      "bytes": 11174,
+      "sha256": "ef6930bd76ddeb16ecfa046a89dbd75a1250a89b1bcd89d5fc2275160554f0c9",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--007-crypto-frequency-analysis-substitution-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--007-crypto-frequency-analysis-substitution-main-html.md",
+      "status": 200,
+      "bytes": 9659,
+      "sha256": "809eaf4f8566e17e21b33d61050f30d4fe43efca46fa65328f9e15dd00079394",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--008-crypto-rail-fence-cipher-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--008-crypto-rail-fence-cipher-main-html.md",
+      "status": 200,
+      "bytes": 2315,
+      "sha256": "ef9ae5149f8589c51cedc753d87ada6505dde95b0ef35ee9b6cba22d0caac576",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--009-crypto-string-crypto-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--009-crypto-string-crypto-main-html.md",
+      "status": 200,
+      "bytes": 5094,
+      "sha256": "d9d5eb0e3f83ec5bbfa848f1ad60761a7ae12c88c6070fdbe43b8ae6eb749be1",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--010-crypto-vigener-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--010-crypto-vigener-main-html.md",
+      "status": 200,
+      "bytes": 7955,
+      "sha256": "92ffe689dd8848575970a3ea66640f5c759a6ba112e67e66989bd13e0166f3de",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--011-crypto-xor-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--011-crypto-xor-main-html.md",
+      "status": 200,
+      "bytes": 5105,
+      "sha256": "c242c900ae5909c396d9534c33e175d3b1257a2603f3ccb897d6e1df33fbda12",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/kmb--ctf-crypto--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/kmb--ctf-crypto--SKILL.md",
+      "status": 200,
+      "bytes": 6263,
+      "sha256": "ff09721cecd220c458028590cea3cc1e4ec735aac768c8e8c8bcb87411b8e359",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--advanced-math.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--advanced-math.md",
+      "status": 200,
+      "bytes": 42216,
+      "sha256": "130c6b5a114fc8233bb413ef7b76917b5e5c7df17f5e563762f2ff66839ba0e4",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--classic-ciphers.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--classic-ciphers.md",
+      "status": 200,
+      "bytes": 30116,
+      "sha256": "c522d2288341af9a37798dc948fff3edd9a250b10065802928507b0d0deede83",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--dh-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--dh-attacks.md",
+      "status": 200,
+      "bytes": 7616,
+      "sha256": "bc0f64f407b49cf00017bfe0e45418685b06242488bda9b02d2eeda37a54cddd",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--ecc-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--ecc-attacks.md",
+      "status": 200,
+      "bytes": 42734,
+      "sha256": "8e13ae201d6f475d221cdab94ed92cfa3acb17030085cf6b4e75b9497e2e0366",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--exotic-crypto-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--exotic-crypto-2.md",
+      "status": 200,
+      "bytes": 21090,
+      "sha256": "b0f688b653d15299064fff8e3a2704788c7d5e458706ff324bb573f6cebc4de4",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--exotic-crypto.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--exotic-crypto.md",
+      "status": 200,
+      "bytes": 38692,
+      "sha256": "2fd7d46111aa3832c2eaf04bdeb3d27e879375b58f3a1587ceacd794d658b04f",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--historical.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--historical.md",
+      "status": 200,
+      "bytes": 5469,
+      "sha256": "7080a2558837988518c9f47107b1fa79fc1980cb51a5f20191c532daf6e5fbd5",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--lattice-and-lwe.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--lattice-and-lwe.md",
+      "status": 200,
+      "bytes": 35422,
+      "sha256": "d611d78a85d1f07fff70ff614b2371491c467fe3f1d82dc3503625db819b096b",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--modern-ciphers-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--modern-ciphers-2.md",
+      "status": 200,
+      "bytes": 31302,
+      "sha256": "942303868e10c8e10636c47b2e8d830fdd0e8b73bb3dccefac358475e5fa27c5",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--modern-ciphers-3.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--modern-ciphers-3.md",
+      "status": 200,
+      "bytes": 28968,
+      "sha256": "6d2ca1b2804d1abf16a7290bed6ffe77f2ac7e0d7b8bfbb196076d0512ee5935",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--modern-ciphers-4.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--modern-ciphers-4.md",
+      "status": 200,
+      "bytes": 25943,
+      "sha256": "8b1522945b81d3e192b38cf2560cf7903cb07d04f96c3e00bd2ddaa3a1a02e6a",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--modern-ciphers.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--modern-ciphers.md",
+      "status": 200,
+      "bytes": 37710,
+      "sha256": "4a3c9b9897289e980e848a30b5ec5067dee24b9e326620c78df1d307c36a40ab",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--post-quantum.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--post-quantum.md",
+      "status": 200,
+      "bytes": 5740,
+      "sha256": "b479e2c87697997a7d420b461e598a9e7f29bc68585326fc5dfeb702e4fc580d",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--prng-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--prng-attacks.md",
+      "status": 200,
+      "bytes": 13430,
+      "sha256": "1982e4933a0fcd2fdded3702f878637d476f42807c03c1985f629c3924d5439b",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--prng.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--prng.md",
+      "status": 200,
+      "bytes": 44540,
+      "sha256": "82aa42c43212caaa8979b61c3a1543819f193d8d30a4939cfc6418aff5994c5a",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--rsa-attacks-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--rsa-attacks-2.md",
+      "status": 200,
+      "bytes": 48433,
+      "sha256": "78703c3fbe2500cd661a513fb1cdd175603d601ec2be832a36d3b564d3de68a7",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--rsa-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--rsa-attacks.md",
+      "status": 200,
+      "bytes": 61421,
+      "sha256": "cdc83d656da31216a8aef89397e24d35df48b02f905809ba2bff148c9373e282",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--SKILL.md",
+      "status": 200,
+      "bytes": 53105,
+      "sha256": "4a5b5a57d1cc2ff37817ef0a3cc81cd64c5cba9f57ad07c9a0a9e69c39c08c15",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--stream-ciphers.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--stream-ciphers.md",
+      "status": 200,
+      "bytes": 34966,
+      "sha256": "6884f74529a5408b306295367da0625ac9ab14bebc136ee92f3a4c1996f8b59f",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-crypto--zkp-and-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-crypto--zkp-and-advanced.md",
+      "status": 200,
+      "bytes": 22063,
+      "sha256": "8478ae388f94d5e525f4112e806fc417bba1c58c8d62b7273bf63787182243c2",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-misc--encodings-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-misc--encodings-advanced.md",
+      "status": 200,
+      "bytes": 24506,
+      "sha256": "2ca4786669bb7c0329ed8fc2a8fd8c110fbc5fd02aebafdae606c036d4f9d819",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/lj--ctf-misc--encodings.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/lj--ctf-misc--encodings.md",
+      "status": 200,
+      "bytes": 20174,
+      "sha256": "c578de7b4fcfc5b3e9dc7d17895d5548d427c18bb4ed6c94db6062f30e3e121e",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/na--cryptography--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/na--cryptography--SKILL.md",
+      "status": 200,
+      "bytes": 3772,
+      "sha256": "2c876422afade22af8c13c4ec36f06ed58b17ced3ad557177d581496353b439f",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/na--knowledge--tools-reference--cryptography.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/na--knowledge--tools-reference--cryptography.md",
+      "status": 200,
+      "bytes": 3437,
+      "sha256": "64bb29e2bc5507c89b1df003280c1b0d087a47efd2b11beb1dea7171b5742a27",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/na--legacy--knowledge--crypto.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/na--legacy--knowledge--crypto.md",
+      "status": 200,
+      "bytes": 2075,
+      "sha256": "a32e4b700fa04c367ea88d9de2e13cd0dc38007486bcfcfbe99efa08e7363450",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/na--legacy--prompts--crypto.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/na--legacy--prompts--crypto.md",
+      "status": 200,
+      "bytes": 1965,
+      "sha256": "d7b9b1e4aea41c1582eca8924dcf2e1cc5d1019faf9662825e5cab35ecd02602",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/sa--instructions--crypto--aes-block-cipher.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/sa--instructions--crypto--aes-block-cipher.md",
+      "status": 200,
+      "bytes": 7696,
+      "sha256": "9feeede084fd938150fe321a7d186c8899e89745ffdea88f6a6c20834321f363",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/sa--instructions--crypto--crypto-triage.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/sa--instructions--crypto--crypto-triage.md",
+      "status": 200,
+      "bytes": 9965,
+      "sha256": "61344b3d04dc1597288ae90773ea0a9d1b89756c88d2d123c550e434575d9929",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/sa--instructions--crypto--hash-cracking.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/sa--instructions--crypto--hash-cracking.md",
+      "status": 200,
+      "bytes": 7658,
+      "sha256": "09edafaae941eaafe79ac2e85b2c55c11f134f3eee5f25135e4db1c5ba87b453",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/sa--instructions--crypto--rsa-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/sa--instructions--crypto--rsa-attacks.md",
+      "status": 200,
+      "bytes": 7651,
+      "sha256": "111cab1651bcf0ff3bf3f5104f15369216170516a52ca4d503f1af75c480aa3b",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/sa--instructions--crypto--xor-and-classical.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/sa--instructions--crypto--xor-and-classical.md",
+      "status": 200,
+      "bytes": 7834,
+      "sha256": "467e14ce17292374e15ef4a6e898c1cb2efc69068ba655492ee91cacab64a240",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/thm--notes--cryptographyconcepts.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/thm--notes--cryptographyconcepts.md",
+      "status": 200,
+      "bytes": 2828,
+      "sha256": "b85c2ca1362bc92b5022623a350a59130456f4efafaaf069acc05676c3d85715",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/thm--notes--dataencoding.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/thm--notes--dataencoding.md",
+      "status": 200,
+      "bytes": 2606,
+      "sha256": "df1a759fa7b350bf9323cbfb05d778db196b0082e2112fda260113faefa14dea",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/thm--notes--datarepresentation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/thm--notes--datarepresentation.md",
+      "status": 200,
+      "bytes": 2323,
+      "sha256": "767bc443b271790b6687fb18fc589b932fb393af3c5eccb7ec5edae55fa68f78",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/thm--notes--source-corrections.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/thm--notes--source-corrections.md",
+      "status": 200,
+      "bytes": 2308,
+      "sha256": "3370d7a99f9751d7b20d8ad54e78ea8d68be29aa111d7a04a2a17395b82113fb",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/thm--thm-encoding-cryptography--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/thm--thm-encoding-cryptography--lessons.md",
+      "status": 200,
+      "bytes": 6491,
+      "sha256": "5ca88eaf3cb722b29c2d1693e47c121c003283990759ca3ada3a9b4e4d97b41f",
+      "hash_matches": true
+    },
+    {
+      "file": "08-crypto-encoding/thm--thm-encoding-cryptography--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/08-crypto-encoding/thm--thm-encoding-cryptography--SKILL.md",
+      "status": 200,
+      "bytes": 3075,
+      "sha256": "bbef53e6ab2748f64da33790932ac74a526e243a49787269018ffbee79bb7386",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/kmb--ctf-forensics-010editor--012-forensic-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/kmb--ctf-forensics-010editor--012-forensic-main-html.md",
+      "status": 200,
+      "bytes": 7497,
+      "sha256": "f2a8eda4e58fee8f5d18e717e972feb0d0bf239a716de041300378749553cae7",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/kmb--ctf-forensics-010editor--013-forensic-010editor-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/kmb--ctf-forensics-010editor--013-forensic-010editor-main-html.md",
+      "status": 200,
+      "bytes": 36490,
+      "sha256": "abdeb3ca5e8437532e0c2a86258fb6cda0f6afea7f6210555cac598865e06746",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/kmb--ctf-forensics-010editor--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/kmb--ctf-forensics-010editor--SKILL.md",
+      "status": 200,
+      "bytes": 4410,
+      "sha256": "10f13d109396714ba0f7fd32478b92170bce6712dadc7e2f6b33f4df2e141878",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--disk-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--disk-advanced.md",
+      "status": 200,
+      "bytes": 22110,
+      "sha256": "bbb4622122f10849c03f1645dd395f4dc351558bdc3a1b0ccc01580c7e85f114",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--disk-and-memory.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--disk-and-memory.md",
+      "status": 200,
+      "bytes": 21147,
+      "sha256": "848b7b983c5b0626545c2bb3a82b0dd303b2496641f3f98d4997f74f799bb88b",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--disk-recovery.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--disk-recovery.md",
+      "status": 200,
+      "bytes": 32672,
+      "sha256": "2b290022327c9dbeaea9b2993a4b429e79829d90a701a09fd3f7c0a47e1a7a25",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--linux-forensics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--linux-forensics.md",
+      "status": 200,
+      "bytes": 20231,
+      "sha256": "a419ceffebedc3962630b6b14c38604aeccef44fd5ca2122becc19f1ab63c0f1",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--network-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--network-advanced.md",
+      "status": 200,
+      "bytes": 27809,
+      "sha256": "8ad5b3bf473fce7387e51513107738ed23da6a5f4e8c671620679b3f27589932",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--network.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--network.md",
+      "status": 200,
+      "bytes": 23253,
+      "sha256": "6496b8e53ae4b46f4e721a36a7e276ac26b4f0423527e1984b3793877b67ddee",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--SKILL.md",
+      "status": 200,
+      "bytes": 48773,
+      "sha256": "1c946d8f2a7e934ff830102c7bf1a8b5c1a71148f25e4f9fcbed38bb55d87ab0",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/lj--ctf-forensics--windows.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/lj--ctf-forensics--windows.md",
+      "status": 200,
+      "bytes": 23853,
+      "sha256": "3b7c325456587d2c9ac85d4935c93d7743a4561460d3af45ed47d5b6e480e760",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/na--forensics--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/na--forensics--SKILL.md",
+      "status": 200,
+      "bytes": 3382,
+      "sha256": "c7b440cd9f414277bf5e28d10a55e5bffd2a04ccb14c728f9037a72c6b804d9b",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/na--knowledge--tools-reference--forensics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/na--knowledge--tools-reference--forensics.md",
+      "status": 200,
+      "bytes": 3048,
+      "sha256": "b88ae2d63af2aa786e44e7df7a6e1d335a105dfd8bc940d9db3c3abbc4980550",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/na--legacy--knowledge--forensics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/na--legacy--knowledge--forensics.md",
+      "status": 200,
+      "bytes": 2000,
+      "sha256": "31e039379e8c0d5fd1c201f6c4443315471281b3ff835e50562caa03fe2f99e1",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/na--legacy--prompts--forensics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/na--legacy--prompts--forensics.md",
+      "status": 200,
+      "bytes": 1888,
+      "sha256": "40e933cc4f4402396536a079b1200562d3ad68387004555223e1655bfbec2756",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--disk-image-analysis.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--disk-image-analysis.md",
+      "status": 200,
+      "bytes": 11141,
+      "sha256": "ed6762ccfc2a49996c60ce2e5a2e25f2f139db7e1906b20addeb62dcf933310b",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--forensics-triage.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--forensics-triage.md",
+      "status": 200,
+      "bytes": 12737,
+      "sha256": "27d193e18afc7a98707dddfed14e07243b86a7296ee6a6ff8e7387bfed0bc5c3",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--log-analysis-sherlock.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--log-analysis-sherlock.md",
+      "status": 200,
+      "bytes": 10681,
+      "sha256": "d482f7cb0f3b585bcfe0e891076a6938551a5225f8c9d5a676d6a88c08f53a4a",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--memory-volatility.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--memory-volatility.md",
+      "status": 200,
+      "bytes": 11724,
+      "sha256": "85d24b16239875a371fefbebfba6183e4f844980c4e0f6291394b1220d9fd031",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--pcap-network-forensics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--pcap-network-forensics.md",
+      "status": 200,
+      "bytes": 10847,
+      "sha256": "590f60299e4d44ed64eb823b1a43b0e39ecfa23e363b5a5d6a4d97961bae2016",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--soc-alert-triage.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--soc-alert-triage.md",
+      "status": 200,
+      "bytes": 10621,
+      "sha256": "d32047a423cd17994558afec92f297e959890a6fdc34917717640f37a83c63d3",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--threat-hunting-detection.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--threat-hunting-detection.md",
+      "status": 200,
+      "bytes": 10996,
+      "sha256": "bc593ed8ccff0215a9a29b9b8f991eca6c1f0b107a0a5340f83f2e1aaf6912f9",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/sa--instructions--forensics-dfir--windows-event-logs.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/sa--instructions--forensics-dfir--windows-event-logs.md",
+      "status": 200,
+      "bytes": 10994,
+      "sha256": "27456d6b7616989da5b676fc0e7bf69791413ae187bca7d3f13bdcfebc605172",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/thm--notes--health-hazard-task1-user-provided.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--notes--health-hazard-task1-user-provided.md",
+      "status": 200,
+      "bytes": 2867,
+      "sha256": "09291dc6c073ef0121804cbc912fc69ed1d3c4f0ad634142e96f7c24b93204a4",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/thm--notes--threathuntingsimulatorhealthhazard.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--notes--threathuntingsimulatorhealthhazard.md",
+      "status": 200,
+      "bytes": 9110,
+      "sha256": "f6f9a8217da3c9362e56b71db204cd2710370cd5b7f62362d8069a87a484c436",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/thm--notes--volatilityessentials.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--notes--volatilityessentials.md",
+      "status": 200,
+      "bytes": 3403,
+      "sha256": "d1c29b619243d3ada56ac8e24eb9f21e1702b5c4c3680240d39b89bd0cd04e2a",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/thm--thm-threat-hunting-splunk--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--thm-threat-hunting-splunk--SKILL.md",
+      "status": 200,
+      "bytes": 4317,
+      "sha256": "2168e8bb1ccf86425815d94215a263aa9a6d2936631232f6f49bd2e6392553f7",
+      "hash_matches": true
+    },
+    {
+      "file": "09-forensics-soc/thm--thm-volatility-memory--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/09-forensics-soc/thm--thm-volatility-memory--SKILL.md",
+      "status": 200,
+      "bytes": 2327,
+      "sha256": "82a1088c06652b7c6714cc922f11b5749d1fe368a5a35dfada41f158dcbbfddb",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/kmb--ctf-stego--019-stego-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/kmb--ctf-stego--019-stego-main-html.md",
+      "status": 200,
+      "bytes": 2713,
+      "sha256": "fa4428001d267a79180a4b5582fa6eb9035f2908afe509e3984ff0ae34e7f464",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/kmb--ctf-stego--020-stego-pic-stego-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/kmb--ctf-stego--020-stego-pic-stego-main-html.md",
+      "status": 200,
+      "bytes": 8140,
+      "sha256": "e00cc94e6d35e34bf2fa52995c5f0908ec0a6c6482de34d98bb9d540a0b3a2d6",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/kmb--ctf-stego--021-stego-stegsolve-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/kmb--ctf-stego--021-stego-stegsolve-main-html.md",
+      "status": 200,
+      "bytes": 3446,
+      "sha256": "1fe0a531598a8669901a04918429e8c286787fa692cfa9cef04e876a0a0305c1",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/kmb--ctf-stego--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/kmb--ctf-stego--SKILL.md",
+      "status": 200,
+      "bytes": 4920,
+      "sha256": "d86f24263ad7149bee7f5434af999374a6943e28452a9e874ffee9b8fdacb87b",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/lj--ctf-forensics--steganography.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/lj--ctf-forensics--steganography.md",
+      "status": 200,
+      "bytes": 31808,
+      "sha256": "b41c43cdebec39b1ab5613ffa0d15065b8f19181dad110e4532ac6ee66ee62e8",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/lj--ctf-forensics--stego-advanced-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/lj--ctf-forensics--stego-advanced-2.md",
+      "status": 200,
+      "bytes": 22158,
+      "sha256": "684141b31de454a402e6ed8399780f11cd9e8f1babf4b01506c90fe6f403e233",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/lj--ctf-forensics--stego-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/lj--ctf-forensics--stego-advanced.md",
+      "status": 200,
+      "bytes": 20945,
+      "sha256": "0f2ff8f19c90870bf6c5f6923997f86548535aea9cae9ce6d260498df6bec05d",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/lj--ctf-forensics--stego-image.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/lj--ctf-forensics--stego-image.md",
+      "status": 200,
+      "bytes": 31548,
+      "sha256": "1d73bfc4b4bb988799ccd0e178fbc83428f8a24165f0c4cc9f373bfb86cfee88",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/na--knowledge--tools-reference--steganography.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/na--knowledge--tools-reference--steganography.md",
+      "status": 200,
+      "bytes": 3271,
+      "sha256": "2aa06baf23c63fab96510200834a63204c84beebb62e4df74e2048d65f356f01",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/na--legacy--knowledge--steganography.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/na--legacy--knowledge--steganography.md",
+      "status": 200,
+      "bytes": 2145,
+      "sha256": "221b4b8d81744d4b2c25f8eb7aa3d88b328403becc9baa011556f11ad86ca934",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/na--steganography--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/na--steganography--SKILL.md",
+      "status": 200,
+      "bytes": 3432,
+      "sha256": "b2b6a15baab9fe5d2871d6759d9eb632e6a92ef1342cc242c03dd0a6b1f49c8b",
+      "hash_matches": true
+    },
+    {
+      "file": "10-steganography/sa--instructions--stego-osint-misc--steganography.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/10-steganography/sa--instructions--stego-osint-misc--steganography.md",
+      "status": 200,
+      "bytes": 9714,
+      "sha256": "806d16b9cc81468d0542856f4d1f7a6124a753c57106c329b46a4378ab5dd09c",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/kmb--ctf-reverse-pwn--017-re-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/kmb--ctf-reverse-pwn--017-re-main-html.md",
+      "status": 200,
+      "bytes": 3617,
+      "sha256": "90335d6900bf1f01768bd73209df2e3d866235d5484127e25c41f808a3c188e5",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/kmb--ctf-reverse-pwn--018-re-pwn-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/kmb--ctf-reverse-pwn--018-re-pwn-main-html.md",
+      "status": 200,
+      "bytes": 8040,
+      "sha256": "89b010e67853ec31c7374244b7ebdd5d5566072f54942124cc8ba87df0b31b92",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/kmb--ctf-reverse-pwn--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/kmb--ctf-reverse-pwn--SKILL.md",
+      "status": 200,
+      "bytes": 4551,
+      "sha256": "ae0891eff808735b95f6d43d306e7baa222b11b67891bb674b229f371464380f",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--anti-analysis-ctf.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--anti-analysis-ctf.md",
+      "status": 200,
+      "bytes": 11925,
+      "sha256": "445e53f198025461b161aa09a4b9f3b0660e6ee9ee1f285002572141f6ec550b",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--anti-analysis.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--anti-analysis.md",
+      "status": 200,
+      "bytes": 24872,
+      "sha256": "60b014b591ebff90457360a2d222c9ae049062c4b98c3013e789f29e90410984",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--field-notes.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--field-notes.md",
+      "status": 200,
+      "bytes": 40298,
+      "sha256": "c080ea05075907e9c09586d8ff43ab0128dd5386deb7dd0d9af6fd39a7738cf5",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--languages-compiled.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--languages-compiled.md",
+      "status": 200,
+      "bytes": 28532,
+      "sha256": "e505b4cd88c433e09b1f368bcb2c688a0146a7717df246f72e2182ea6feff22b",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--languages-platforms.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--languages-platforms.md",
+      "status": 200,
+      "bytes": 30517,
+      "sha256": "5792c1efcb845b18c859689382cfc0aba80e45c0c8da94a1438aa84a98485b39",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--languages.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--languages.md",
+      "status": 200,
+      "bytes": 24507,
+      "sha256": "3a4846140b9fa59a58334f915049552a5d38f12988457c105fbe0bec6440f306",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--mba-simplification.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--mba-simplification.md",
+      "status": 200,
+      "bytes": 5458,
+      "sha256": "744434ce1f3b3c2ff72db157605720b3a6adfe3099b7cb71dcada91e016d1a36",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--patterns-ctf-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--patterns-ctf-2.md",
+      "status": 200,
+      "bytes": 20335,
+      "sha256": "fa0da126e74f23bb1d7ac2a0e0749ef3b952bdc2e7359bb6d9c8f1548ca1d612",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--patterns-ctf-3.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--patterns-ctf-3.md",
+      "status": 200,
+      "bytes": 39870,
+      "sha256": "735896fd77573452095de42fd515003b4a27797594cdc86b396457585aaf302c",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--patterns-ctf.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--patterns-ctf.md",
+      "status": 200,
+      "bytes": 31819,
+      "sha256": "b98685bc6e595d29e8e685e6a53bec6c8b0271f039c1c7524e8c75d537e19854",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--patterns-runtime.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--patterns-runtime.md",
+      "status": 200,
+      "bytes": 13257,
+      "sha256": "ac40229e4fe8edb8364a9ff244f05499b2c9adf37d4799c5a6efa51c19cdf27b",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--patterns.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--patterns.md",
+      "status": 200,
+      "bytes": 21417,
+      "sha256": "19937b771a354c4ffe6e17856f86c46cb36d9688255ff3be00424ef561d455b1",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--platforms.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--platforms.md",
+      "status": 200,
+      "bytes": 24217,
+      "sha256": "56482baed33b7a9b8563eca316148cdeb30a91f5ca73dc19f4089b4b66109f88",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--radare2-r2pipe.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--radare2-r2pipe.md",
+      "status": 200,
+      "bytes": 18528,
+      "sha256": "64181071c22b59292d11cd96a86679eac277ecffe4be2fd6376fdb638addf841",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--SKILL.md",
+      "status": 200,
+      "bytes": 18813,
+      "sha256": "14eb83a44bc7fdf17196cff67bd991276f4c2e9d21d588623161a5185f926b3b",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--tools-advanced-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--tools-advanced-2.md",
+      "status": 200,
+      "bytes": 15796,
+      "sha256": "9ac911a36c22d501f9f30c2e8972edfa908e4718f558edf1b69d91d5fbddf471",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--tools-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--tools-advanced.md",
+      "status": 200,
+      "bytes": 13340,
+      "sha256": "083c7f73cbf8afe2f9c3b277435e59d75b73197432db85a72962430650587fa1",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--tools-dynamic.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--tools-dynamic.md",
+      "status": 200,
+      "bytes": 26930,
+      "sha256": "340eca5fb170a851b5242aaa97105a20893bb90aa9c43d072e95b2aa81f70116",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--tools-emulation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--tools-emulation.md",
+      "status": 200,
+      "bytes": 14045,
+      "sha256": "82a66ff52a0a18d634a88cd7ebedbbfbed293b18db8e74e1b5d8d5288aae32e7",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--tools-mcp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--tools-mcp.md",
+      "status": 200,
+      "bytes": 45515,
+      "sha256": "d050091a9bed20a7d8c47926efdf50f78a35a7eef1c68877ff9220342dec0e88",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--tools.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--tools.md",
+      "status": 200,
+      "bytes": 17735,
+      "sha256": "d53f22103be65123a3f5e102b34c42dfe337eb8bd953617597429899cd6bdbf7",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/lj--ctf-reverse--unicorn-emulation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/lj--ctf-reverse--unicorn-emulation.md",
+      "status": 200,
+      "bytes": 52451,
+      "sha256": "87813439dc3659c244711c5a4d0885f13ee46290062b4f97f9aa41c569bd21a8",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/na--knowledge--tools-reference--reverse-engineering.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/na--knowledge--tools-reference--reverse-engineering.md",
+      "status": 200,
+      "bytes": 3839,
+      "sha256": "aa40f97f9022f540de2e1fa117487bc95d2f410bb2ef484b837fff35018e5fb0",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/na--legacy--knowledge--reverse.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/na--legacy--knowledge--reverse.md",
+      "status": 200,
+      "bytes": 2054,
+      "sha256": "9510b9002381512f718539db124245fa75aeea3d5db131e0d0c5190c3ef778f7",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/na--legacy--prompts--reverse.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/na--legacy--prompts--reverse.md",
+      "status": 200,
+      "bytes": 2053,
+      "sha256": "ac244c10469d43f4bed9567bdfa7dbca4d9c96044c7cf9bc223018d8af53cc00",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/na--reverse-engineering--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/na--reverse-engineering--SKILL.md",
+      "status": 200,
+      "bytes": 4018,
+      "sha256": "d7be2b1362d9bed44fe26ddef936c379abd5cd9d9c616d4f5c3b30273c490e1f",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/sa--instructions--reverse-engineering--angr-symbolic-execution.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/sa--instructions--reverse-engineering--angr-symbolic-execution.md",
+      "status": 200,
+      "bytes": 9580,
+      "sha256": "7264d2fd8d21812922415ae4993b8bdbed531af380ae137cdc7007e08d2f64f5",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/sa--instructions--reverse-engineering--anti-debug-and-packing.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/sa--instructions--reverse-engineering--anti-debug-and-packing.md",
+      "status": 200,
+      "bytes": 9227,
+      "sha256": "86e1311ecd58752a56485ca2531faa05ba2e28f289a7be4c910ddf4735fff1c7",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/sa--instructions--reverse-engineering--ghidra-workflow.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/sa--instructions--reverse-engineering--ghidra-workflow.md",
+      "status": 200,
+      "bytes": 8616,
+      "sha256": "e2be35313732a0f93899f257aee91710f840e6901ed0f3f39c14f7ca25ca4e61",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/sa--instructions--reverse-engineering--re-dynamic-gdb.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/sa--instructions--reverse-engineering--re-dynamic-gdb.md",
+      "status": 200,
+      "bytes": 8616,
+      "sha256": "726fa0dc1d9b6554b9153c698cab2e0a8e9a7ad5d5be181a56111d00095384c6",
+      "hash_matches": true
+    },
+    {
+      "file": "11-reverse/sa--instructions--reverse-engineering--re-triage-static.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/11-reverse/sa--instructions--reverse-engineering--re-triage-static.md",
+      "status": 200,
+      "bytes": 8641,
+      "sha256": "3c6badffd8cf274c69b2dfb2ebd3d9894a7d1dfe8c758ba60f451aecf1ff56f6",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--advanced-exploits-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--advanced-exploits-2.md",
+      "status": 200,
+      "bytes": 32047,
+      "sha256": "55a76b0f69a00ec659f1689598e720bf5faf3466050a15ee83b7cd1d998a7b2b",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--advanced-exploits-3.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--advanced-exploits-3.md",
+      "status": 200,
+      "bytes": 34280,
+      "sha256": "8fe04881b926f577059091cbe3d15eeed43576b2eb6d18ca0c2720bbf6907d0e",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--advanced-exploits-4.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--advanced-exploits-4.md",
+      "status": 200,
+      "bytes": 32331,
+      "sha256": "7dc25938992d241407e9012bbd1444e62bd8124e28dab16f5c78ca8372253684",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--advanced-exploits-5.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--advanced-exploits-5.md",
+      "status": 200,
+      "bytes": 7486,
+      "sha256": "502a21dde875f2290c96555618c91528cfb489b6aa0e23215771ff9bd5d1db1d",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--advanced-exploits.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--advanced-exploits.md",
+      "status": 200,
+      "bytes": 37016,
+      "sha256": "83156abbdc01c45b6e52f792c279046007a8cd01e360a11d6c461f7615d730d0",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--advanced.md",
+      "status": 200,
+      "bytes": 15780,
+      "sha256": "81144c953054fa63335e0e3b9642878bb4ee2122bec85a3e3631b3feddf6a919",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--attack-playbook.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--attack-playbook.md",
+      "status": 200,
+      "bytes": 7479,
+      "sha256": "d78d7e8a360a23a4669ad8738be38ad08f576df6279b3f7f99802ab8e863555a",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--field-notes.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--field-notes.md",
+      "status": 200,
+      "bytes": 32410,
+      "sha256": "8793fc0cffbf7d57f4404f8b14708755ba439a37448e0b35cec7f74ca2ceb6ea",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--format-string.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--format-string.md",
+      "status": 200,
+      "bytes": 33960,
+      "sha256": "83d8d9061a943755f5ac9a2916b1bef942d31beb8ef16cd84cf9dd5578fe5231",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--heap-fsop.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--heap-fsop.md",
+      "status": 200,
+      "bytes": 16126,
+      "sha256": "918e328d3721247114ca9e11b5badcf89bcffef8785ee5b2fa29a0353f7c4c37",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--heap-techniques-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--heap-techniques-2.md",
+      "status": 200,
+      "bytes": 21424,
+      "sha256": "57cac2a780082fffcfa2f11e5137acff8cde99517379a001391c3dd225c8e36c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--heap-techniques.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--heap-techniques.md",
+      "status": 200,
+      "bytes": 39136,
+      "sha256": "63cb8761e72b6181459d8ab3bd92b2c3c124d79e5d2b0863a9870a8522f8a96b",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--kernel-bypass.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--kernel-bypass.md",
+      "status": 200,
+      "bytes": 21299,
+      "sha256": "7ba1a8adfc17399596f9041eda5ea8f8c36a8c91939abaa9329bc199bc2f4625",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--kernel-techniques.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--kernel-techniques.md",
+      "status": 200,
+      "bytes": 20083,
+      "sha256": "ce6bbabcb33115dc66a8006cbb3b64b4517400c4da503c80ef86fe13bb19eb69",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--kernel.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--kernel.md",
+      "status": 200,
+      "bytes": 33844,
+      "sha256": "eae9cc29beed371cc5c7f5d011c01766bb795518ab16a6fe1d6eddec8fc1ba50",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--overflow-basics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--overflow-basics.md",
+      "status": 200,
+      "bytes": 27909,
+      "sha256": "5673b52b50e902a9c4780dec17771e794332a9f53efc72027826b22d45cde26c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--3x17.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--3x17.md",
+      "status": 200,
+      "bytes": 12482,
+      "sha256": "128ddea8bc7ed9b01709ed7a343c51f71f4a1d4c9da6cda05f8960253bd58782",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--alive_note.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--alive_note.md",
+      "status": 200,
+      "bytes": 15167,
+      "sha256": "ee9e4c5a9855d389ac895f39a18c24917f953a1d8d00cd43c5f978c1b2fb5054",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--applestore.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--applestore.md",
+      "status": 200,
+      "bytes": 15300,
+      "sha256": "49e4a78eb289568b77a3cd1600306a0dc3db95156179a98d291df8387846e24c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--babyallocator.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--babyallocator.md",
+      "status": 200,
+      "bytes": 16117,
+      "sha256": "0a9b8de3afaca0eafa55b1b6f31fd291ce4f24dee66a21773e6e0ec98a8d6638",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--babystack.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--babystack.md",
+      "status": 200,
+      "bytes": 16323,
+      "sha256": "4819e88fd6b9edcd222d73b8b4a69f7f29a54d7a08ec322512169ca752d47ca0",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--bash_revenge.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--bash_revenge.md",
+      "status": 200,
+      "bytes": 15541,
+      "sha256": "521617451ca669911c8cd63d695ba4ddbadecf122baae262d29fafe6b08cb280",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--bash.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--bash.md",
+      "status": 200,
+      "bytes": 11468,
+      "sha256": "b30e8a7d28ca8dc14f0977de65feb1e44a47a7c5210a786fa35334035ff4397c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--bookwriter.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--bookwriter.md",
+      "status": 200,
+      "bytes": 14000,
+      "sha256": "d798076f3bba14b8b8720f734c21191bab78875747332c34b02d1d764ce9cb30",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--bounty_program_a.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--bounty_program_a.md",
+      "status": 200,
+      "bytes": 15380,
+      "sha256": "01d1595bcd104beb4b58df9a5652c51ef9e68a7010868b2e5a562718cfd15cdf",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--bounty_program_b.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--bounty_program_b.md",
+      "status": 200,
+      "bytes": 14797,
+      "sha256": "60461b3d2cfa03978f55da3b12ac327a13e448da185d93cc0633ed4f9414637a",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--break_out.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--break_out.md",
+      "status": 200,
+      "bytes": 15371,
+      "sha256": "fc0f7bc10189ca94f661357e98e32d7509e197431f83b6452e8e93b96de43bd4",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--calc.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--calc.md",
+      "status": 200,
+      "bytes": 14486,
+      "sha256": "a578181b6d0807913ce6c6be60aa4d7a2bfb4dc2342ab09068341fb784811598",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--caov.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--caov.md",
+      "status": 200,
+      "bytes": 14645,
+      "sha256": "3c0dc246ed8893dd50760f6c80465893393084d8bd14415a868a5da4b382defc",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--criticalheap_pp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--criticalheap_pp.md",
+      "status": 200,
+      "bytes": 14574,
+      "sha256": "329e3d47d983b7ea68cb8d0e80d79f5d87cee2317016c6a8f29b2c4d8156010a",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--criticalheap.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--criticalheap.md",
+      "status": 200,
+      "bytes": 15285,
+      "sha256": "7dea71df965171108c530108580f267160ba91c67140a9e8cadb8ce188993234",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--de_aslr.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--de_aslr.md",
+      "status": 200,
+      "bytes": 16072,
+      "sha256": "86e7a513035b072ea425e2b57e7147e882912dfc6bea64e6ad1a5e8a861eaa33",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--death_note.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--death_note.md",
+      "status": 200,
+      "bytes": 14959,
+      "sha256": "d3a358232a0bce09efe805f99eb55d2489e2f2f7880904c19d5ca07cd26ce98d",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--digimon.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--digimon.md",
+      "status": 200,
+      "bytes": 15827,
+      "sha256": "7ea303ee2d2cfef742c8a024f777f6d0b71d70cb8a4ca769b852102ecea1d701",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--dubblesort.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--dubblesort.md",
+      "status": 200,
+      "bytes": 12790,
+      "sha256": "1277390683a076442a59aff45c790b409c0990e0578e4d69d27c26303a51a2c5",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--food_store.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--food_store.md",
+      "status": 200,
+      "bytes": 14059,
+      "sha256": "56055ddcc895223c4ea233681850e5f14721807ca8808a10390c199440cb0bb0",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--ghost_party.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--ghost_party.md",
+      "status": 200,
+      "bytes": 14440,
+      "sha256": "b07453410206626699b19a979e07b87f26155dd5be65558a4e9430ba9f47b65e",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--hacknote.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--hacknote.md",
+      "status": 200,
+      "bytes": 13705,
+      "sha256": "6f12ccbbaead5ea7f8441382946bdac74b20f8e5657e0f2f769bd09683973108",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--heap_paradise.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--heap_paradise.md",
+      "status": 200,
+      "bytes": 13695,
+      "sha256": "9dd79933225221aa324cc7ae6627a0a3a8de564ad5224383082cd8400d1bb0c0",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--hitcon_ftp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--hitcon_ftp.md",
+      "status": 200,
+      "bytes": 15013,
+      "sha256": "a2c14a9a25217228222f46d63f39d967f7c163076f9610dd56f52e37ea8046db",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--kidding.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--kidding.md",
+      "status": 200,
+      "bytes": 14590,
+      "sha256": "995c586c63e030ca26fdc6be8959cc4de565eb1a7c029732698d602b77c724da",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--mno2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--mno2.md",
+      "status": 200,
+      "bytes": 13747,
+      "sha256": "d1cb7aecafe33152c1e1e3f52bcef07b785be3751027ae8908e44ad3006fe78f",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--omegago.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--omegago.md",
+      "status": 200,
+      "bytes": 14835,
+      "sha256": "49c30f43e6503899f01c54425782d48cf95bddff9b55a22a573102062a5c1103",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--orw.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--orw.md",
+      "status": 200,
+      "bytes": 13022,
+      "sha256": "8f54a93613cf5c42f084ed9d696628bff2112489c437249b6047fc42eed9ee54",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--printable.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--printable.md",
+      "status": 200,
+      "bytes": 14980,
+      "sha256": "a2118dc7c6803cf16fd0f01795fe491277c17b4c7bb8e49a40b964a8a8bd1461",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--re_alloc_revenge.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--re_alloc_revenge.md",
+      "status": 200,
+      "bytes": 12740,
+      "sha256": "7f075ce42eec8fc4abea09b5a193853d618d9bbc748076a0f9e33a21c772d81c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--re_alloc.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--re_alloc.md",
+      "status": 200,
+      "bytes": 12833,
+      "sha256": "d91d87decf6e9dda89b244f352b42b5356fb966ff564ec59407714f961b57334",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--README.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--README.md",
+      "status": 200,
+      "bytes": 60069,
+      "sha256": "88cab542f2e6f17dea929232325c9dc4ecd6552129dc65b4a71d81ae74987d63",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--seccomptools.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--seccomptools.md",
+      "status": 200,
+      "bytes": 13593,
+      "sha256": "f4ed18a890b84520b3342f72e07136598a83c6d87c1dc986706052466d872460",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--secret_garden.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--secret_garden.md",
+      "status": 200,
+      "bytes": 15177,
+      "sha256": "80bab73206233dadc00e67bcc2ae2f198001696fc91e8521aafeabcba55766b5",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--secret_of_my_heart.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--secret_of_my_heart.md",
+      "status": 200,
+      "bytes": 13876,
+      "sha256": "68f53e268bf638b0842d272cf30063e1738fa86f881a2bb45ea92acb37171002",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--seethefile.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--seethefile.md",
+      "status": 200,
+      "bytes": 13666,
+      "sha256": "ab2f6ca5093bed522b0dd3ad78b6d8252c542142753e2742dfdf435129d2ba01",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--silver_bullet.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--silver_bullet.md",
+      "status": 200,
+      "bytes": 15299,
+      "sha256": "693ed542e670e2e39be94bf4fc102ea8cc9aeecc7781d7766e2df3ceebc27e6f",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--spirited_away.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--spirited_away.md",
+      "status": 200,
+      "bytes": 13144,
+      "sha256": "d46bbd8e190fb2fd76e2086c22317177b089cc4f3edd01ad3225515154e4aaef",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--starbound.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--starbound.md",
+      "status": 200,
+      "bytes": 14608,
+      "sha256": "fcc5f9071fe709d65860861bf1bcb2ac4ae0bbbb1f3451585de92c3283e0b3c6",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--start.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--start.md",
+      "status": 200,
+      "bytes": 11904,
+      "sha256": "e109376100900148515a79d8f22361bab71c33930b75f68fcd732693399f7427",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--stupid_boss.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--stupid_boss.md",
+      "status": 200,
+      "bytes": 14651,
+      "sha256": "d6b1263320912d9f5aec1424e3285c9e38531ed84a83a18d0c9125b281fa237a",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--tcache_tear.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--tcache_tear.md",
+      "status": 200,
+      "bytes": 13754,
+      "sha256": "68c9bbbc47d3612f82afd44f64fa198278b893613991611ac6133648701c604c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--unexploitable.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--unexploitable.md",
+      "status": 200,
+      "bytes": 15726,
+      "sha256": "1c4aae1a3f35d81e017df0e5ec6050203bb269d5e84dd4f2502b762f0e50739c",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--pwnable-tw--wannaheap.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--pwnable-tw--wannaheap.md",
+      "status": 200,
+      "bytes": 14140,
+      "sha256": "69c4ac78e0de62c8407029a28ab1b6d240c1f6db6d4cc5c1b2998f083c36890e",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--rop-advanced.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--rop-advanced.md",
+      "status": 200,
+      "bytes": 34043,
+      "sha256": "aa66d0756ebb30d0d67713cf78354cc837adccb424b1e5c105b58da6973a3131",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--rop-and-shellcode.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--rop-and-shellcode.md",
+      "status": 200,
+      "bytes": 29736,
+      "sha256": "d69b497f67b7f13b86b588d5fac6e759d7ca2cd6142263a52b37a88f632ab5e8",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--sandbox-escape.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--sandbox-escape.md",
+      "status": 200,
+      "bytes": 16307,
+      "sha256": "0734bc15068a4bea691b733d082ce28e9ca34b2c34063e7fe66854489e09fd67",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--SKILL.md",
+      "status": 200,
+      "bytes": 25947,
+      "sha256": "db8d6da534693d445408a8f5a5555a804ec1b5dee2cb7b3d4f6f9e0c922974a5",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--static-signals.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--static-signals.md",
+      "status": 200,
+      "bytes": 3114,
+      "sha256": "790096e2baf131d7e3ad88c1466a75dafe194a6cdde4be32661a859ade139951",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/lj--ctf-pwn--tools-mcp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/lj--ctf-pwn--tools-mcp.md",
+      "status": 200,
+      "bytes": 13329,
+      "sha256": "1f9a0bc20212a13f2f462644c0d7644bc86b48476393eff60a2eacae5f23f684",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/na--binary-exploitation--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/na--binary-exploitation--SKILL.md",
+      "status": 200,
+      "bytes": 3516,
+      "sha256": "64e18e312a6d387ff47120681d7770e56451da5db34b7e2ad105c347528bfe8b",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/na--knowledge--tools-reference--binary-exploitation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/na--knowledge--tools-reference--binary-exploitation.md",
+      "status": 200,
+      "bytes": 3216,
+      "sha256": "41a95e4ebda337e96b3220f4818f5b6970b6697e85da919e81deeb7553324286",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/na--legacy--knowledge--pwn.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/na--legacy--knowledge--pwn.md",
+      "status": 200,
+      "bytes": 2220,
+      "sha256": "98f9ecd2efc7aa99058bf628e889116322b8681d2906cee0e9936f1d1b504ef1",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/na--legacy--prompts--pwn.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/na--legacy--prompts--pwn.md",
+      "status": 200,
+      "bytes": 2119,
+      "sha256": "62be5f4dc3692fee354586633a23b00dedbec277c9c771f658c6abf0d1d1a33f",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/sa--instructions--binary-exploitation--format-string.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/sa--instructions--binary-exploitation--format-string.md",
+      "status": 200,
+      "bytes": 7819,
+      "sha256": "c68fcb93042cf136761f1175c29654495eb31236d5454db3a2dd95e07bc4f5d3",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/sa--instructions--binary-exploitation--heap-exploitation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/sa--instructions--binary-exploitation--heap-exploitation.md",
+      "status": 200,
+      "bytes": 9868,
+      "sha256": "e0b1242907d2d8cdc7d8ead8139882ee1123b71d356611021bae56b5443b32df",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/sa--instructions--binary-exploitation--pwn-methodology.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/sa--instructions--binary-exploitation--pwn-methodology.md",
+      "status": 200,
+      "bytes": 9591,
+      "sha256": "4f6814b4394b30558b02723124d757a79b0fae7e6bf8140edfc3c0d1a1ff1e9b",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/sa--instructions--binary-exploitation--rop-chains.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/sa--instructions--binary-exploitation--rop-chains.md",
+      "status": 200,
+      "bytes": 8295,
+      "sha256": "288594ea9f73f33dd830ca75f1d996b0384f96927a755004daf00c1697c478c6",
+      "hash_matches": true
+    },
+    {
+      "file": "12-pwn/sa--instructions--binary-exploitation--stack-buffer-overflow.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/12-pwn/sa--instructions--binary-exploitation--stack-buffer-overflow.md",
+      "status": 200,
+      "bytes": 7082,
+      "sha256": "556037ec7a8735d5e35fc75cad4c7d7dac00730f45949a81f8adc9396de41bf1",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/lj--ctf-malware--c2-and-protocols.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/lj--ctf-malware--c2-and-protocols.md",
+      "status": 200,
+      "bytes": 11589,
+      "sha256": "fa1f553fc24d67bd43d85096857f7cd10c07b2f80686c8b994ca94d366b13b86",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/lj--ctf-malware--pe-and-dotnet.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/lj--ctf-malware--pe-and-dotnet.md",
+      "status": 200,
+      "bytes": 3911,
+      "sha256": "984d56690e923e9a7956418bef25068a177544b1618b50eaf1af4f2a45b767ca",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/lj--ctf-malware--scripts-and-obfuscation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/lj--ctf-malware--scripts-and-obfuscation.md",
+      "status": 200,
+      "bytes": 16757,
+      "sha256": "3e7bc9ff684b9f1c130c231838415a88e398b8916132679a1d187aed0f1cdf5b",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/lj--ctf-malware--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/lj--ctf-malware--SKILL.md",
+      "status": 200,
+      "bytes": 12148,
+      "sha256": "6656e89029b7152e486d010d7643a6046305f4b56fe473914b2be74fd74d4dba",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/lj--ctf-malware--tools-mcp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/lj--ctf-malware--tools-mcp.md",
+      "status": 200,
+      "bytes": 9827,
+      "sha256": "841e11241621f3fbe2047cbfbbf89b2184b8603d84a43dcaa38779de57afba23",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/na--knowledge--tools-reference--malware-analysis.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/na--knowledge--tools-reference--malware-analysis.md",
+      "status": 200,
+      "bytes": 3585,
+      "sha256": "ffbc1e8ea0a74901bd1fb6b7ebbe2b5917804b8befe4761c6051e51d7debf32a",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/na--malware-analysis--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/na--malware-analysis--SKILL.md",
+      "status": 200,
+      "bytes": 3202,
+      "sha256": "518a877b4007a031c2ba0e61f053cddf489c7a00fa70c5ae3c945fcc55b164ea",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/sa--instructions--malware-analysis--maldoc-scripts.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/sa--instructions--malware-analysis--maldoc-scripts.md",
+      "status": 200,
+      "bytes": 15811,
+      "sha256": "a471d16a17f720ee959982282971d74885a7892143b72a8c68847996b864c095",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/sa--instructions--malware-analysis--malware-dynamic-sandbox.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/sa--instructions--malware-analysis--malware-dynamic-sandbox.md",
+      "status": 200,
+      "bytes": 14115,
+      "sha256": "24a9023d77dd05a348f91cde667fa8444a663313991eaa7158c5a34e02d70cbe",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/sa--instructions--malware-analysis--malware-static-triage.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/sa--instructions--malware-analysis--malware-static-triage.md",
+      "status": 200,
+      "bytes": 13267,
+      "sha256": "d5ec739588b2d43162cbfd24fa8ae06a1cf84962fe8bd415001a3265eee2ed4e",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/sa--instructions--malware-analysis--unpacking-deobfuscation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/sa--instructions--malware-analysis--unpacking-deobfuscation.md",
+      "status": 200,
+      "bytes": 14801,
+      "sha256": "aa9d4e0e372c5f1795336b4de10abb189bc3eba97dec6ddc47c73bd56625ce85",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/sa--instructions--malware-analysis--yara-iocs.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/sa--instructions--malware-analysis--yara-iocs.md",
+      "status": 200,
+      "bytes": 14239,
+      "sha256": "7a2199f6b0fcf97a9b81938d644f390e60b879c26d71d4687f07aeacc40e1693",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/thm--notes--introtoav.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/thm--notes--introtoav.md",
+      "status": 200,
+      "bytes": 2804,
+      "sha256": "56e7e96c66566e67be01139d91778bf5640d8e4efa7b83716178a679da2ce9d7",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/thm--thm-antivirus-yara--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/thm--thm-antivirus-yara--lessons.md",
+      "status": 200,
+      "bytes": 2988,
+      "sha256": "c64ac7ee8c103206dbbb6223c3f39480a5242ad98731de7649292910f47a135d",
+      "hash_matches": true
+    },
+    {
+      "file": "13-malware/thm--thm-antivirus-yara--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/13-malware/thm--thm-antivirus-yara--SKILL.md",
+      "status": 200,
+      "bytes": 2860,
+      "sha256": "0e56bb9d097e1df597ab67288b9b054a62fb95e69f9e64945bd75e169b11d884",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/lj--ctf-forensics--3d-printing.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/lj--ctf-forensics--3d-printing.md",
+      "status": 200,
+      "bytes": 5091,
+      "sha256": "354cc93e2340b19c647f5ee2f36182234b77a669ad7890f21e7345f8bcbfd8c3",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/lj--ctf-forensics--peripheral-capture.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/lj--ctf-forensics--peripheral-capture.md",
+      "status": 200,
+      "bytes": 13445,
+      "sha256": "03e5c066d60e79533c5523b5be7c08f24f394016e846e087ec86efc8fd6590c8",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/lj--ctf-forensics--signals-and-hardware.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/lj--ctf-forensics--signals-and-hardware.md",
+      "status": 200,
+      "bytes": 30493,
+      "sha256": "4bda92541b4fb3580c2398de4d8447e0c5f5397527ae30c8e59374d506e03890",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/lj--ctf-misc--rf-sdr.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/lj--ctf-misc--rf-sdr.md",
+      "status": 200,
+      "bytes": 4849,
+      "sha256": "7fa7894e2747712e5c9b0cc4a2a3dc944bff9b6c4c165ce320035cefbec2d496",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/lj--ctf-reverse--platforms-hardware.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/lj--ctf-reverse--platforms-hardware.md",
+      "status": 200,
+      "bytes": 17226,
+      "sha256": "482dfe13833c2a8c8e41152444b6b6f7d5be2cc642dd552380cecc548595819a",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/sa--instructions--hardware--firmware-analysis.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/sa--instructions--hardware--firmware-analysis.md",
+      "status": 200,
+      "bytes": 9091,
+      "sha256": "d8c60aea1cea705999b3ab02173d962d7e2ae067560f3216362b78b357993ee7",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/sa--instructions--hardware--hardware-triage.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/sa--instructions--hardware--hardware-triage.md",
+      "status": 200,
+      "bytes": 9584,
+      "sha256": "6ec8b48f53499c5eb159ef481f45b79b26de127cdd22053151549e256bbe02ce",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/sa--instructions--hardware--rf-sdr.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/sa--instructions--hardware--rf-sdr.md",
+      "status": 200,
+      "bytes": 7884,
+      "sha256": "a458e7f1e80727f67317fb86c8023c5e6765f71d671592b50d4b010c70a46d35",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/sa--instructions--hardware--side-channel-glitch.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/sa--instructions--hardware--side-channel-glitch.md",
+      "status": 200,
+      "bytes": 9731,
+      "sha256": "4950c168d14cba64fbd4801e31ffcac0e93a7e7c2efba10c85b56f86899449b9",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/sa--instructions--hardware--spi-i2c-flash-dump.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/sa--instructions--hardware--spi-i2c-flash-dump.md",
+      "status": 200,
+      "bytes": 8375,
+      "sha256": "ab4149f87ea68c0e4178a65de9dab1ca9198c93580099becc53f5bead388a79f",
+      "hash_matches": true
+    },
+    {
+      "file": "14-hardware/sa--instructions--hardware--uart-jtag-swd.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/14-hardware/sa--instructions--hardware--uart-jtag-swd.md",
+      "status": 200,
+      "bytes": 9649,
+      "sha256": "057beb92445311ce4380594597b138dbb4c73388488dfa156d3236a909b1acbf",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/lj--ctf-osint--geolocation-and-media.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/lj--ctf-osint--geolocation-and-media.md",
+      "status": 200,
+      "bytes": 23671,
+      "sha256": "30721dad8007a9db6e1ed4f01dba6f7043665f87d71684f33fd1d7b2fd03c26c",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/lj--ctf-osint--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/lj--ctf-osint--SKILL.md",
+      "status": 200,
+      "bytes": 13559,
+      "sha256": "5e7a2813fd6f5e998960e20f198172b24cadaf74b284e8d21263e5d12f9f4110",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/lj--ctf-osint--social-media.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/lj--ctf-osint--social-media.md",
+      "status": 200,
+      "bytes": 14956,
+      "sha256": "da0048db19a7dca9cfdb757bc0470e4ea4719e7fbc710d51f0a7963267f3268f",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/lj--ctf-osint--tools-mcp.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/lj--ctf-osint--tools-mcp.md",
+      "status": 200,
+      "bytes": 6166,
+      "sha256": "9c8bd5448af6a27389ad1452a6e30cde83d1836e37adcfa073a2374a852c4ec0",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/lj--ctf-osint--web-and-dns.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/lj--ctf-osint--web-and-dns.md",
+      "status": 200,
+      "bytes": 15362,
+      "sha256": "d3f8fdfa0d66972cf5574199be9bef5158248abfae6742c50195fad2e4cc33e2",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/lj--ctf-similar-search--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/lj--ctf-similar-search--SKILL.md",
+      "status": 200,
+      "bytes": 7669,
+      "sha256": "243382370791f5bbac63a2a6db0edcfac7ccca925599918adfd0b0eed1cd60ba",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/na--knowledge--tools-reference--osint.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/na--knowledge--tools-reference--osint.md",
+      "status": 200,
+      "bytes": 4039,
+      "sha256": "63fcf2641731d92b7adece2b1f019575b51c4a3bcf560a34ae529ad8d9997b5c",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/na--legacy--knowledge--osint.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/na--legacy--knowledge--osint.md",
+      "status": 200,
+      "bytes": 1549,
+      "sha256": "8be860892e994871169ef09691fa37a96acbdea9a4ee4e1f8cfa0eb90afe148c",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/na--legacy--prompts--osint.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/na--legacy--prompts--osint.md",
+      "status": 200,
+      "bytes": 1552,
+      "sha256": "246fdef947b4d87e4ff44b735187950780eba2cbdfdd91eff3006f1236f95548",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/na--osint--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/na--osint--SKILL.md",
+      "status": 200,
+      "bytes": 3712,
+      "sha256": "a412d4fc7a89fa2b75b66c4f1e83b84d8f206be2c87275e8af54f3ec0285c207",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/sa--instructions--stego-osint-misc--osint.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/sa--instructions--stego-osint-misc--osint.md",
+      "status": 200,
+      "bytes": 9642,
+      "sha256": "4262c8ecbd0e7f64a38166c0bca8a708b7ac4c87b025b1de11dd03af97648d2a",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/thm--notes--searchskills.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/thm--notes--searchskills.md",
+      "status": 200,
+      "bytes": 2531,
+      "sha256": "bbca1af1b7e61b8d377314a22c0d0f3fba670fc422350a40f9446ba8de90e7f6",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/thm--thm-research-tools--lessons.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/thm--thm-research-tools--lessons.md",
+      "status": 200,
+      "bytes": 2722,
+      "sha256": "711e0125c7616c86777bbb29a0b34259bc5deeb6b1c0d28a76bc783ded72a028",
+      "hash_matches": true
+    },
+    {
+      "file": "15-osint/thm--thm-research-tools--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/15-osint/thm--thm-research-tools--SKILL.md",
+      "status": 200,
+      "bytes": 2785,
+      "sha256": "c896f431f0b2a892da0a36566550e892a8ed354dd20a6de866c15f49eaa114e8",
+      "hash_matches": true
+    },
+    {
+      "file": "16-ai-ml/lj--ctf-ai-ml--adversarial-ml.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/16-ai-ml/lj--ctf-ai-ml--adversarial-ml.md",
+      "status": 200,
+      "bytes": 26992,
+      "sha256": "b44638fae2fb6e54055433defa7347a2efae919efae70efa491f4274be97f498",
+      "hash_matches": true
+    },
+    {
+      "file": "16-ai-ml/lj--ctf-ai-ml--llm-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/16-ai-ml/lj--ctf-ai-ml--llm-attacks.md",
+      "status": 200,
+      "bytes": 21483,
+      "sha256": "3c0b8a93e2a7feda2afbf5cd12221d30dfcdc7eb0f74e0f9d58ad14420fe9504",
+      "hash_matches": true
+    },
+    {
+      "file": "16-ai-ml/lj--ctf-ai-ml--model-attacks.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/16-ai-ml/lj--ctf-ai-ml--model-attacks.md",
+      "status": 200,
+      "bytes": 19432,
+      "sha256": "7150fbaca90e4c70ebb24a47b30a8d69ed83f9c9d4d835e2824cb486f328f9af",
+      "hash_matches": true
+    },
+    {
+      "file": "16-ai-ml/lj--ctf-ai-ml--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/16-ai-ml/lj--ctf-ai-ml--SKILL.md",
+      "status": 200,
+      "bytes": 9442,
+      "sha256": "acd8c6e1fddb07d8bdf6683f751ff686364d0a1c3357fb6f605a9d4fbfc96865",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--audio.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--audio.md",
+      "status": 200,
+      "bytes": 15511,
+      "sha256": "fb0fbf1784d81611d8f1502371b08851abb3b4c6c9fbc9ec9a0343fff7c4e2e1",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--bashjails.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--bashjails.md",
+      "status": 200,
+      "bytes": 16904,
+      "sha256": "62a38502ccceebddd7d376b4817be60dfa658fe02704fbfddaf24b74c6eea3a0",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--ctfd-navigation.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--ctfd-navigation.md",
+      "status": 200,
+      "bytes": 15663,
+      "sha256": "4023e891e1122dba82cb7495e569069eb9db68ef93415b1139e52010b4c1d8be",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--games-and-vms-2.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--games-and-vms-2.md",
+      "status": 200,
+      "bytes": 11450,
+      "sha256": "8fec73eba9e88697acd9645d2a935bd837577eefd56c13b3da83a048b08f5c7f",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--games-and-vms-3.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--games-and-vms-3.md",
+      "status": 200,
+      "bytes": 33523,
+      "sha256": "1b08929f2469d49cd47f06c1e5a23d37d8ac00e8a190af3bec19c1f6349f5c94",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--games-and-vms-4.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--games-and-vms-4.md",
+      "status": 200,
+      "bytes": 12692,
+      "sha256": "1c845cd722d98abbf28980b2074edafc203e6143be76caf15c1cad22bb4fa04b",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--games-and-vms.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--games-and-vms.md",
+      "status": 200,
+      "bytes": 22237,
+      "sha256": "680516dee8f96a9a5c4d3cf54804c5d85adaeb897bbb8a2be2d2c5b01fef3453",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--pyjails.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--pyjails.md",
+      "status": 200,
+      "bytes": 44438,
+      "sha256": "50239ead4e6e2408534212427479e80461a3b7f53754f8c3c86cb348a1245e63",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/lj--ctf-misc--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/lj--ctf-misc--SKILL.md",
+      "status": 200,
+      "bytes": 34323,
+      "sha256": "bfa2d33297d9d5e0c1831f9d559c4b358979be282cf8e53c9da833cc4b3000b9",
+      "hash_matches": true
+    },
+    {
+      "file": "17-misc/sa--instructions--stego-osint-misc--misc-jail-escapes.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/17-misc/sa--instructions--stego-osint-misc--misc-jail-escapes.md",
+      "status": 200,
+      "bytes": 9703,
+      "sha256": "ef708044f16a08c8312bb68ccc5e414a0c8431e4522c7fff0773d7acec434e0b",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--022-vm-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--022-vm-main-html.md",
+      "status": 200,
+      "bytes": 3348,
+      "sha256": "3d367cd8aee73ee844290da53ab90fbc79f0f6e1c91300ad48c39c82fc15d660",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--023-vm-create-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--023-vm-create-main-html.md",
+      "status": 200,
+      "bytes": 4675,
+      "sha256": "8a05a0256b661e761cfc6477859267a95bff8e35af173932a96ecac324d62bcb",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--024-vm-install-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--024-vm-install-main-html.md",
+      "status": 200,
+      "bytes": 3258,
+      "sha256": "11f496b943eb518f983dc8ca0cc58baa0a471779393e1d1ceb3bc634ec9df511",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--025-vm-install-kali-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--025-vm-install-kali-main-html.md",
+      "status": 200,
+      "bytes": 4811,
+      "sha256": "0794d62c21540316fe7e20ab2827d2f1af1b4c1059de2f31fbaf737bdc9cf5e8",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--026-vm-settings-vb-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--026-vm-settings-vb-main-html.md",
+      "status": 200,
+      "bytes": 2901,
+      "sha256": "a4d614a2044f41b8eaf61fa65ed3490fd6846dd1571dd531e26042ce1b177c82",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--027-vm-settings-vm-main-html.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--027-vm-settings-vm-main-html.md",
+      "status": 200,
+      "bytes": 4210,
+      "sha256": "727a11d918f49a351b1cad1ff27826eba44a107d3b3d0aa6791e7bbd310935ea",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/kmb--ctf-virtualbox-kali--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/kmb--ctf-virtualbox-kali--SKILL.md",
+      "status": 200,
+      "bytes": 5756,
+      "sha256": "0c6493dde8156098997955998dd5dd5b95d2f71f937b0c51e80c59d9e1f04a87",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/na--knowledge--command-cheatsheet.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/na--knowledge--command-cheatsheet.md",
+      "status": 200,
+      "bytes": 4628,
+      "sha256": "3455bd79cf670ccdb2d44bcc7894ac9abfb9c94bdc86ba51aa4b09ff3797df48",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/na--knowledge--fallback-tools.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/na--knowledge--fallback-tools.md",
+      "status": 200,
+      "bytes": 7625,
+      "sha256": "f1ef16378c86aaca86933c26ed5205992562adc08757f26956a366503f78a98c",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/thm--notes--metasploitthebasics.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/thm--notes--metasploitthebasics.md",
+      "status": 200,
+      "bytes": 3255,
+      "sha256": "ce4ed41ccf55c33a26e4557ee17b03adf25b16866fe89dcdde22284b576b28ed",
+      "hash_matches": true
+    },
+    {
+      "file": "18-lab/thm--thm-metasploit-basics--SKILL.md",
+      "url": "https://raw.githubusercontent.com/BigBread57/zametki/main/18-lab/thm--thm-metasploit-basics--SKILL.md",
+      "status": 200,
+      "bytes": 2304,
+      "sha256": "5210e3c42a86d1a817d9ca7e9d8d484dbdf46b005350d14ef96d6f8c2646ebea",
+      "hash_matches": true
+    }
+  ],
+  "tested_content_commit": "cbb56c1a30f6d073d748b43dacbf583067e94234",
+  "agent_web_tool_example": {
+    "index_opened": true,
+    "guide_opened": true,
+    "linked_lesson_opened": true,
+    "tool": "web.run",
+    "result": "Текст INDEX.md, руководства Volatility и связанного конспекта прочитан по HTTPS без клонирования репозитория."
+  }
+}
